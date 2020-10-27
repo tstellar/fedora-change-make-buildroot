@@ -50,7 +50,7 @@ echo "BuildRequires Make: `wc -l buildrequires_make.txt | grep -o '^[0-9]\+'`"
 if [ -d archive ]; then
     if [ ! -e fail_nomake.txt ]; then
         for f in `find archive/ -iname '*FAIL*'`; do
-            basename $f | cut -c 6- | sed 's/.log//g' | python nvr-to-name.py
+            basename $f | cut -c 6- | sed 's/\.log$//g' | python nvr-to-name.py
         done | sort > fail_nomake.txt
     fi
 fi

@@ -1,11 +1,7 @@
 
--0.3.5-12.fc33
 0ad
 0xFFFF
--1.4-30.fc33
--2.0.19-3.fc33
 2048-cli
--3.1.4-3.20190113git283534d97d5a.fc33
 389-ds-base
 3Depict
 3proxy
@@ -14,7 +10,6 @@
 64tass
 7kaa
 8sync
--9-1.fc34
 9wm
 a2ps
 a52dec
@@ -827,7 +822,6 @@ crawl
 CriticalMass
 criu
 crm114
-cron
 cronie
 cronolog
 cross-binutils
@@ -911,7 +905,6 @@ darkstat
 darktable
 dash
 dasher
-dat
 datalog
 datamash
 dataquay
@@ -1016,7 +1009,6 @@ dhcp-forwarder
 dhcping
 dhex
 dhtest
-di
 dia
 dialog
 dianara
@@ -1297,7 +1289,6 @@ ettercap
 eureka
 eurephia
 evemu
-even
 eventlog
 evolution-rspam
 evolution-rss
@@ -1320,7 +1311,6 @@ extremetuxracer
 extundelete
 eyesight
 ez-ipupdate
-f
 f21-backgrounds
 f22-backgrounds
 f23-backgrounds
@@ -1402,7 +1392,6 @@ fedmsg
 fedora-easy-karma
 fedora-jam-backgrounds
 fedora-logos
-fedoraos
 fedora-packager
 fedora-repo-zdicts
 fedora-workstation-backgrounds
@@ -1412,7 +1401,6 @@ fence-virt
 fennel
 fes
 festival
-fetc
 fetch-crl
 fetchlog
 fetchmail
@@ -1523,7 +1511,6 @@ fpc
 fpdns
 fping
 fpm2
-fprobe-
 fprobe-ulog
 frama-c
 free42
@@ -1686,7 +1673,7 @@ gemdropx
 genchemlab
 genders
 general-purpose-preprocessor
-genericos
+generic-logos
 genesis-simulator
 gengetopt
 genius
@@ -1776,7 +1763,6 @@ glimmer
 glite-jobid-api-c
 glite-jobid-api-cpp
 glite-jobid-api-java
-glite-lbjp-common
 glite-lbjp-common-log
 glite-lbjp-common-maildir
 gliv
@@ -1911,7 +1897,6 @@ gnome-shell-extension-suspend-button
 gnome-shell-extension-system-monitor-applet
 gnome-shell-extension-topicons-plus
 gnome-subtitles
-gnome-system
 gnome-system-log
 gnome-terminal
 gnome-themes-extra
@@ -1979,7 +1964,6 @@ gpick
 gpicview
 gpm
 gpodder
-gpr
 gprbuild
 gpredict
 gprolog
@@ -2058,7 +2042,6 @@ gtatool
 gtengine
 gtest
 gti
-gtim
 gtimelog
 gtk2
 gtk2-engines
@@ -2798,7 +2781,6 @@ kqoauth-qt5
 kqtquickcharts
 krazy2
 krb5
-krb5-auth-di
 krb5-auth-dialog
 krdc
 krecipes
@@ -3292,7 +3274,6 @@ libnbd
 libndp
 libnet
 libnet10
-libnetfilter
 libnetfilter_acct
 libnetfilter_conntrack
 libnetfilter_cthelper
@@ -3510,7 +3491,7 @@ libtnc
 libtomcrypt
 libtommath
 libtool
-libtopy
+libtopology
 libtorrent
 libtpcimgio
 libtpcmisc
@@ -3656,7 +3637,6 @@ lightdm-gtk
 lightdm-settings
 lightning
 lighttpd
-liging
 lilypond
 lilyterm
 linbox
@@ -3666,7 +3646,6 @@ link-grammar
 links
 LinLog
 linode-cli
-linorm
 linphone
 linpsk
 linsim
@@ -4021,7 +4000,6 @@ mindless
 minetest
 minetestmapper
 ming
-mingw4c
 mingw-adwaita-icon-theme
 mingw-angleproject
 mingw-antlr
@@ -4130,6 +4108,7 @@ mingw-libvorbis
 mingw-libwebp
 mingw-libxml2
 mingw-libxslt
+mingw-log4c
 mingw-mpfr
 mingw-nettle
 mingw-openssl
@@ -4250,7 +4229,6 @@ mod_log_post
 mod_md
 mod_mono
 mod_nss
-mod_post
 mod_revocator
 mod_selinux
 mod_suphp
@@ -5260,8 +5238,6 @@ perl-Kwiki-Raw
 perl-Language-Functional
 perl-Language-Prolog-Sugar
 perl-Language-Prolog-Types
-perl-Language-Pr-Sugar
-perl-Language-Pr-Types
 perl-LDAP
 perl-libwhisker2
 perl-Lingua-EN-Inflect-Number
@@ -5487,7 +5463,6 @@ perl-Starlet
 perl-Stream-Buffered
 perl-String-Approx
 perl-String-Flogger
-perl-String-ger
 perl-String-ShellQuote
 perl-String-Similarity
 perl-Sub-Exporter-Lexical
@@ -5614,7 +5589,6 @@ perl-Wx-GLCanvas
 perl-Wx-Perl-DataWalker
 perl-X10
 perl-XML-Atom-SimpleFeed
-perl-XML-Cat
 perl-XML-Catalog
 perl-XML-DOM
 perl-XML-DTDParser
@@ -5737,7 +5711,6 @@ pidgin-privacy-please
 pidgin-save-conv-order
 pidgin-sipe
 pidgin-toobars
-pidginviewer
 pidgin-window-merge
 piglit
 pigz
@@ -6482,7 +6455,6 @@ rssh
 rstp
 rstudio
 rsvndump
-rsy
 rsync
 rsync-bpc
 rsyslog
@@ -6622,7 +6594,6 @@ sblim-cmpi-nfsv3
 sblim-cmpi-nfsv4
 sblim-cmpi-params
 sblim-cmpi-rpm
-sblim-cmpi-sy
 sblim-cmpi-sysfs
 sblim-cmpi-syslog
 sblim-gather
@@ -7046,7 +7017,6 @@ synapse
 synergy
 synfig
 synfigstudio
-sy-ng
 synthv1
 sysbench
 sysconftool
@@ -7066,7 +7036,6 @@ system-switch-java
 system-switch-mail
 systemtap
 sysusage
-t
 t1lib
 t1utils
 t4k_common
@@ -7138,7 +7107,6 @@ teg
 tegrarcm
 telepathy-farstream
 telepathy-gabble
-telepathyger
 telepathy-glib
 telepathy-idle
 telepathy-logger
@@ -7338,7 +7306,6 @@ ucblogo
 uchardet
 ucl
 uClibc
-uco
 ucpp
 ucview
 ucviewer
@@ -7448,7 +7415,6 @@ valkyrie
 valyriatear
 vamp-plugin-sdk
 vanessa_adt
-vanessager
 vanessa_logger
 vanessa_socket
 vapoursynth
@@ -7712,7 +7678,6 @@ xdg-desktop-portal-kde
 xdg-user-dirs
 xdg-user-dirs-gtk
 xdg-utils
-xdi
 xdialog
 xdms
 xdotool
@@ -7823,7 +7788,6 @@ xmlto
 xmltoman
 xmms
 xmms-pulse
-xmonad-applet
 xmonad-log-applet
 xmoto
 xmount

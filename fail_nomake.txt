@@ -1,15 +1,6 @@
 
-
-
-
-
-
--0.3.5-12.fc33
 0xFFFF
--1.4-30.fc33
--2.0.19-3.fc33
 2048-cli
--3.1.4-3.20190113git283534d97d5a.fc33
 389-ds-base
 3Depict
 3proxy
@@ -18,7 +9,6 @@
 64tass
 7kaa
 8sync
--9-1.fc34
 9wm
 a2ps
 a52dec
@@ -632,8 +622,8 @@ crawl
 CriticalMass
 criu
 crm114
-cron
 cronie
+cronolog
 cross-binutils
 crossguid
 crun
@@ -687,7 +677,7 @@ dar
 darkstat
 dash
 dasher
-dat
+datalog
 datamash
 dataquay
 datefudge
@@ -755,8 +745,8 @@ dhcp-forwarder
 dhcping
 dhex
 dhtest
-di
 dia
+dialog
 diction
 dieharder
 dietlibc
@@ -895,6 +885,7 @@ elfutils
 elinks
 elk
 elmon
+elog
 elpa
 elph
 emacs
@@ -958,7 +949,7 @@ ethtool
 ETL
 eureka
 evemu
-even
+eventlog
 evolution-rspam
 evolution-rss
 evtest
@@ -974,7 +965,6 @@ extractpdfmark
 extrema
 extundelete
 ez-ipupdate
-f
 f21-backgrounds
 f22-backgrounds
 f23-backgrounds
@@ -1019,7 +1009,7 @@ fdupes
 fedmsg
 fedora-easy-karma
 fedora-jam-backgrounds
-fedoraos
+fedora-logos
 fedora-packager
 fedora-repo-zdicts
 fedora-workstation-backgrounds
@@ -1029,8 +1019,8 @@ fence-virt
 fennel
 fes
 festival
-fetc
 fetch-crl
+fetchlog
 fetchmail
 fex
 fflas-ffpack
@@ -1072,6 +1062,7 @@ FlightGear-Atlas
 flim
 flint
 flite
+fllog
 flmsg
 flnet
 flobopuyo
@@ -1103,7 +1094,7 @@ fpc
 fpdns
 fping
 fpm2
-fprobe-
+fprobe-ulog
 frama-c
 free42
 freealut
@@ -1233,7 +1224,7 @@ gemdropx
 genchemlab
 genders
 general-purpose-preprocessor
-genericos
+generic-logos
 genesis-simulator
 gengetopt
 genius
@@ -1309,7 +1300,7 @@ glimmer
 glite-jobid-api-c
 glite-jobid-api-cpp
 glite-jobid-api-java
-glite-lbjp-common
+glite-lbjp-common-log
 glite-lbjp-common-maildir
 gliv
 gl-manpages
@@ -1371,6 +1362,7 @@ globus-xio-pipe-driver
 globus-xio-popen-driver
 globus-xio-rate-driver
 globus-xio-udt-driver
+glog
 glom
 gloox
 glpk
@@ -1431,7 +1423,7 @@ gnome-shell-extension-suspend-button
 gnome-shell-extension-system-monitor-applet
 gnome-shell-extension-topicons-plus
 gnome-subtitles
-gnome-system
+gnome-system-log
 gnome-terminal
 gnome-themes-extra
 gnome-translate
@@ -1488,8 +1480,8 @@ gphotofs
 gpicview
 gpm
 gpodder
-gpr
 gpredict
+gprolog
 gpscorrelate
 gpsim
 gputils
@@ -1536,7 +1528,7 @@ gstreamer-plugins-espeak
 gstreamer-plugins-fc
 gt
 gti
-gtim
+gtimelog
 gtk2
 gtk2-engines
 gtk3
@@ -1889,7 +1881,7 @@ KoboDeluxe
 koji
 komparator
 koules
-krb5-auth-di
+krb5-auth-dialog
 kreetingkard
 kronosnet
 ksensors
@@ -2167,6 +2159,8 @@ libldm
 liblinear
 liblo
 liblockfile
+liblogging
+liblognorm
 liblouis
 liblouisutdml
 liblqr-1
@@ -2215,11 +2209,11 @@ libnbd
 libndp
 libnet
 libnet10
-libnetfilter
 libnetfilter_acct
 libnetfilter_conntrack
 libnetfilter_cthelper
 libnetfilter_cttimeout
+libnetfilter_log
 libnetfilter_queue
 libneurosim
 libnfc
@@ -2387,7 +2381,7 @@ libtimidity
 libtirpc
 libtnc
 libtool
-libtopy
+libtopology
 libtorrent
 libtpcimgio
 libtpcmisc
@@ -2505,7 +2499,6 @@ lightdm-gtk
 lightdm-settings
 lightning
 lighttpd
-liging
 lilyterm
 linbox
 linenoise
@@ -2514,7 +2507,6 @@ link-grammar
 links
 LinLog
 linode-cli
-linorm
 linphone
 linpsk
 linsim
@@ -2725,8 +2717,8 @@ maxima
 Mayavi
 mbuffer
 mc
-mc
 mcabber
+mcelog
 mcpanel
 mcpp
 mcrcon
@@ -2783,7 +2775,6 @@ mimedefang
 mimic
 mindless
 ming
-mingw4c
 mingw-adwaita-icon-theme
 mingw-angleproject
 mingw-antlr
@@ -2892,6 +2883,7 @@ mingw-libvorbis
 mingw-libwebp
 mingw-libxml2
 mingw-libxslt
+mingw-log4c
 mingw-mpfr
 mingw-nettle
 mingw-openssl
@@ -2993,10 +2985,10 @@ mod_dnssd
 ModemManager
 mod_gnutls
 mod_http2
+mod_log_post
 mod_md
 mod_mono
 mod_nss
-mod_post
 mod_suphp
 mod_wsgi
 moe
@@ -3795,8 +3787,8 @@ perl-JSON-Path
 perl-JSON-RPC-Common
 perl-Kwiki
 perl-Language-Functional
-perl-Language-Pr-Sugar
-perl-Language-Pr-Types
+perl-Language-Prolog-Sugar
+perl-Language-Prolog-Types
 perl-libwhisker2
 perl-Lingua-EN-Inflect-Number
 perl-Lingua-Identify
@@ -3976,7 +3968,7 @@ perl-Spreadsheet-XLSX
 perl-SQL-Abstract-Limit
 perl-Stream-Buffered
 perl-String-Approx
-perl-String-ger
+perl-String-Flogger
 perl-String-ShellQuote
 perl-String-Similarity
 perl-Sub-Install
@@ -4076,7 +4068,7 @@ perl-Wx-GLCanvas
 perl-Wx-Perl-DataWalker
 perl-X10
 perl-XML-Atom-SimpleFeed
-perl-XML-Cat
+perl-XML-Catalog
 perl-XML-DOM
 perl-XML-DTDParser
 perl-XML-Entities
@@ -4174,11 +4166,11 @@ pidgin-groupchat-typing-notifications
 pidgin-guifications
 pidgin-indicator
 pidgin-libnotify
+pidgin-logviewer
 pidgin-otr
 pidgin-privacy-please
 pidgin-save-conv-order
 pidgin-toobars
-pidginviewer
 pidgin-window-merge
 pigz
 pilot-link
@@ -4630,6 +4622,7 @@ rifiuti2
 Ri-li
 ripmime
 ristretto
+rlog
 rlwrap
 rnetclient
 robodoc
@@ -4659,9 +4652,9 @@ rsnapshot
 rss-glx
 rssh
 rstp
-rsy
 rsync
 rsync-bpc
+rsyslog
 rtaudio
 rtfilter
 rtkit
@@ -4785,8 +4778,8 @@ sblim-cmpi-nfsv3
 sblim-cmpi-nfsv4
 sblim-cmpi-params
 sblim-cmpi-rpm
-sblim-cmpi-sy
 sblim-cmpi-sysfs
+sblim-cmpi-syslog
 sblim-indication_helper
 sblim-sfcb
 sblim-sfcc
@@ -5091,11 +5084,11 @@ sympy
 synapse
 synfig
 synfigstudio
-sy-ng
 sysbench
 sysconftool
 sysfsutils
 syslinux
+syslog-ng
 sysreporter
 sysstat
 system-config-language
@@ -5109,7 +5102,6 @@ system-switch-java
 system-switch-mail
 systemtap
 sysusage
-t
 t1lib
 t1utils
 t4k_common
@@ -5171,9 +5163,9 @@ teg
 tegrarcm
 telepathy-farstream
 telepathy-gabble
-telepathyger
 telepathy-glib
 telepathy-idle
+telepathy-logger
 telepathy-mission-control
 telnet
 templates_parser
@@ -5235,6 +5227,7 @@ tkimg
 tklib
 tktray
 tlock
+tlog
 tlp
 tmate
 tmispell-voikko
@@ -5309,6 +5302,7 @@ tvtime
 tw
 tweak
 twitter-twemoji-fonts
+twlog
 twolame
 tworld
 txt2regex
@@ -5317,9 +5311,9 @@ tzclock
 tzdata
 uberftp
 ucarp
+ucblogo
 ucl
 uClibc
-uco
 ucpp
 ucview
 ucviewer
@@ -5407,7 +5401,7 @@ validns
 valkyrie
 vamp-plugin-sdk
 vanessa_adt
-vanessager
+vanessa_logger
 vanessa_socket
 vapoursynth
 vbindiff
@@ -5612,7 +5606,7 @@ xdg-desktop-portal-gtk
 xdg-user-dirs
 xdg-user-dirs-gtk
 xdg-utils
-xdi
+xdialog
 xdms
 xdotool
 xedit
@@ -5700,6 +5694,7 @@ xl2tpd
 xlcrack
 xloadimage
 xlockmore
+xlog
 xmakemol
 xmbdfed
 xmedcon
@@ -5716,7 +5711,7 @@ xmlto
 xmltoman
 xmms
 xmms-pulse
-xmonad-applet
+xmonad-log-applet
 xmountains
 xmp
 xmp-plugin-audacious
