@@ -26,6 +26,11 @@ for f in rpm-specs/*; do
     fi
 done
 
+# Check if the spec file has BuildRequires: make
+for f in `grep -l -e '^BuildRequires:.\+\?[[:space:],]make' rpm-specs/*`; do
+	basename $f | sed 's/\.spec//'
+done | sort > spec_br_make.txt
+
 num_uses_make=`echo $uses_make | wc -w`
 num_might_use_make=`echo $might_use_make | wc -w`
 
@@ -41,7 +46,7 @@ for p in $might_use_make; do
     basename $p | sed 's/\.spec//'
 done | sort > might_use_make.txt
 
-dnf --releasever=rawhide repoquery --qf %{name} --disablerepo=* --enablerepo=fedora-source --arch=src --whatrequires make | sort > buildrequires_make.txt 2>/dev/null
+dnf --releasever=rawhide repoquery --qf %{name} --disablerepo=* --enablerepo=fedora-source --arch=src --whatrequires make | cat spec_br_make.txt - | sort | uniq > buildrequires_make.txt 2>/dev/null
 
 echo "BuildRequires Make: `wc -l buildrequires_make.txt | grep -o '^[0-9]\+'`"
 

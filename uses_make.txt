@@ -28,6 +28,7 @@ aboot
 abrt
 abrt-java-connector
 abseil-cpp
+accel-config
 accerciser
 accounts-qml-module
 aces_container
@@ -129,6 +130,7 @@ anet
 anjuta
 ann
 annobin
+anope
 ansible
 ansifilter
 anthy
@@ -337,6 +339,7 @@ backupninja
 BackupPC
 BackupPC-XS
 bacula
+badvpn
 badwolf
 bakefile
 balance
@@ -365,6 +368,7 @@ bc
 bcache-tools
 bcal
 bcc
+bcd
 bcftools
 bcg729
 bchunk
@@ -461,7 +465,6 @@ bluez-hcidump
 bluez-tools
 bmon
 bochs
-bodhi
 bodr
 bogl
 bogofilter
@@ -551,6 +554,7 @@ caja-extensions
 cajun-jsonapi
 calamares
 calc
+calceph
 calcium-calculator
 calcurse
 calendar
@@ -1025,9 +1029,11 @@ deepin-picker
 deepin-polkit-agent
 deepin-qt5dxcb-plugin
 deepin-qt5integration
+deepin-qt5platform-plugins
 deepin-qt-dbus-factory
 deepin-screensaver
 deepin-screenshot
+deepin-session-shell
 deepin-session-ui
 deepin-shortcut-viewer
 deepin-sound-theme
@@ -1109,7 +1115,6 @@ dmapd
 dmenu
 dmg2img
 dmidecode
-dmlite
 dmraid
 dmtx-utils
 dnf
@@ -1213,7 +1218,6 @@ dx
 dxcc
 dxpc
 dymo-cups-drivers
-dynafed
 dynamite
 dynaplugz
 dyninst
@@ -1423,12 +1427,15 @@ fatsort
 FAudio
 faust
 fawkes
+fb303
 fbb
 fbg2
 fbida
 fbpanel
 fbreader
 fbterm
+fbthrift
+fbzmq
 fbzx
 fcgi
 fcgiwrap
@@ -1469,7 +1476,6 @@ featherpad
 fedmsg
 fedora-easy-karma
 fedora-jam-backgrounds
-fedora-logos
 fedora-packager
 fedora-repo-zdicts
 fedora-workstation-backgrounds
@@ -1512,6 +1518,7 @@ firewalld
 fish
 fityk
 fixedptc
+fizz
 flac
 flac123
 flacon
@@ -1568,6 +1575,7 @@ fmt-ptrn
 fntsample
 focuswriter
 folly
+foma
 fontaine
 fontconfig
 fontforge
@@ -1705,7 +1713,6 @@ gap-pkg-semigroups
 gap-pkg-zeromqinterface
 garcon
 garden
-garmindev
 GarminPlugin
 garmintools
 gasnet
@@ -1859,7 +1866,6 @@ glfw
 glglobe
 glib
 glibc
-glibmm24
 glimmer
 glite-jobid-api-c
 glite-jobid-api-cpp
@@ -2059,6 +2065,7 @@ google-noto-emoji-fonts
 googler
 gosnake
 gource
+goverlay
 gpart
 gparted
 gperf
@@ -2083,6 +2090,7 @@ gq
 gqrx
 grace
 grads
+grafana-pcp
 grafx2
 gr-air-modes
 granatier
@@ -2300,7 +2308,6 @@ http_ping
 httpry
 httptunnel
 httrack
-hub
 hugin
 hugs98
 hunspell
@@ -2445,6 +2452,7 @@ iodine
 Io-language
 ioping
 ioport
+iotop-c
 IP2Location
 ipe
 iperf
@@ -2647,6 +2655,7 @@ kde-print-manager
 kde-runtime
 kdesdk-kioslaves
 kdesdk-thumbnailers
+kde-style-breeze
 kdesvn
 kdevelop
 kdevelop-pg-qt
@@ -2984,7 +2993,6 @@ kwooty
 kwordquiz
 kwrited
 kxstitch
-kyotocabinet
 kyua
 l3afpad
 LabPlot
@@ -3053,6 +3061,7 @@ leveldb
 levmar
 lfsc
 lftp
+L-function
 lgogdownloader
 lhapdf
 lib3ds
@@ -3333,6 +3342,7 @@ libjaylink
 libjoedog
 libjpeg-turbo
 libjson-rpc-cpp
+libjwt
 libkate
 libkcapi
 libkcddb
@@ -3452,6 +3462,7 @@ libntlm
 libnumbertext
 libnuml
 libnxt
+libnxz
 liboauth
 libocxl
 libodfgen
@@ -3566,6 +3577,7 @@ librs232
 librsvg2
 librsync
 librtas
+librttopo
 librvngabw
 librx
 libs3
@@ -3749,6 +3761,7 @@ libXinerama
 libxkbfile
 libxklavier
 libxls
+libxlsxwriter
 libxml2
 libxmp
 libXmu
@@ -4223,6 +4236,7 @@ minipro
 minisat2
 minisign
 miniupnpc
+miniupnpd
 minizip
 minuet
 mir
@@ -4450,6 +4464,7 @@ nemo-extensions
 neofetch
 neon
 neovim
+neovim-qt
 nest
 netatalk
 netbsd-iscsi
@@ -4624,14 +4639,12 @@ ocaml-ancient
 ocaml-augeas
 ocaml-autoconf
 ocaml-biniou
-ocaml-bisect-ppx
 ocaml-calendar
 ocaml-camlidl
 ocaml-camlp5
 ocaml-cil
 ocaml-cmdliner
 ocaml-cppo
-ocaml-cryptokit
 ocaml-cudf
 ocaml-curl
 ocaml-curses
@@ -4725,7 +4738,6 @@ onesixtyone
 oniguruma
 opae
 opal
-opal-prd
 opam
 opari2
 open62541
@@ -4826,6 +4838,7 @@ openvpn
 openvpn-auth-ldap
 openvswitch
 openwsman
+openxr
 openzwave
 ophcrack
 optipng
@@ -4892,6 +4905,7 @@ pam_abl
 pam_afs_session
 paman
 pam-cryptsetup
+pamix
 pam-kwallet
 pam_mount
 pam_mysql
@@ -4949,7 +4963,6 @@ pcb-rnd
 pcc
 pciutils
 pcl
-pcllib
 pcmanfm
 pcmanfm-qt
 pcmanx-gtk2
@@ -5963,6 +5976,7 @@ perl-Gtk2-Spell
 perl-Gtk2-TrayIcon
 perl-Gtk2-Unique
 perl-Gtk3
+perl-Gtk3-ImageView
 perl-Gtk3-SimpleList
 perl-Gtk3-WebKit
 perl-GTop
@@ -6082,6 +6096,7 @@ perl-Image-Dot
 perl-Image-ExifTool
 perl-Image-Info
 perl-Image-Math-Constrain
+perl-Image-PNG-Libpng
 perl-Imager
 perl-Image-Sane
 perl-Image-Size
@@ -6610,6 +6625,7 @@ perl-NetPacket-SpanningTree
 perl-Net-Patricia
 perl-Net-Pcap
 perl-Net-Pcap-Easy
+perl-Net-Ping
 perl-Net-Ping-External
 perl-Net-POP3S
 perl-Net-Random
@@ -7237,6 +7253,7 @@ perl-Test-Signature
 perl-Test-Simple
 perl-Test-Smoke
 perl-Test-Snapshot
+perl-Test-Some
 perl-Test-Spec
 perl-Test-Spelling
 perl-Test-SQL-Data
@@ -7615,6 +7632,7 @@ php-pecl-http
 php-pecl-igbinary
 php-pecl-imagick
 php-pecl-inotify
+php-pecl-ip2location
 php-pecl-json-post
 php-pecl-krb5
 php-pecl-lzf
@@ -7643,6 +7661,7 @@ php-pecl-uopz
 php-pecl-uuid
 php-pecl-xattr
 php-pecl-xdebug
+php-pecl-xdebug3
 php-pecl-xmldiff
 php-pecl-yac
 php-pecl-yaml
@@ -7851,6 +7870,7 @@ pspp
 pstoedit
 pstreams-devel
 psutils
+ptex
 pthsem
 ptlib
 ptouch-driver
@@ -7868,7 +7888,6 @@ purple-hangouts
 purple-libsteam
 purple-matrix
 purple-mattermost
-purple-plugin_pack
 purple-skypeweb
 purple-telegram
 putty
@@ -8001,6 +8020,7 @@ python-pynetdicom
 python-pypet
 python-pyphi
 python-pyqtchart
+python-pyqtgraph
 python-pysb
 python-pyscf
 python-pyshtools
@@ -8031,6 +8051,7 @@ python-steps
 python-subliminal
 python-systemd
 python-tdlib
+python-TestSlide
 python-testtools
 python-uranium
 python-uranium-lulzbot
@@ -8055,6 +8076,7 @@ qalculate-gtk
 qalculate-kde
 qascade
 qastools
+qatlib
 qbrew
 qbs
 qca
@@ -8087,7 +8109,6 @@ qimageblitz
 qiv
 qjackctl
 qjson
-qlandkartegt
 qlipper
 qmapshack
 qmasterpassword
@@ -8269,7 +8290,6 @@ rawtherapee
 raw-thumbnailer
 raysession
 rblcheck
-rb_libtorrent
 rbm
 rc
 rclone-browser
@@ -8418,6 +8438,7 @@ rtmidi
 rtorrent
 rtpproxy
 rubberband
+rubiks
 ruby
 rubygem-ffi
 rubygem-gherkin
@@ -8561,6 +8582,8 @@ SDL_Pango
 SDL_sound
 SDL_ttf
 sdparm
+seadrive-daemon
+seadrive-gui
 seafile
 seafile-client
 seahorse-caja
@@ -8581,6 +8604,7 @@ sensible-utils
 sentencepiece
 seqan
 seqan2
+seqan3
 ser2net
 serafettin-cartoon-fonts
 serdisplib
@@ -8593,6 +8617,7 @@ setroubleshoot-plugins
 setserial
 setup
 setuptool
+setxkbmap
 sevmgr
 sextractor
 SFML
@@ -8609,6 +8634,7 @@ shairport-sync
 shaman
 shapelib
 sharedmeataxe
+shared-mime-info
 sharutils
 shc
 sheepdog
@@ -8738,7 +8764,6 @@ sooperlooper
 soprano
 sopwith
 SoQt
-soundconverter
 soundkonverter
 soundmodem
 sound-theme-freedesktop
@@ -9226,6 +9251,7 @@ txt2regex
 typespeed
 tzclock
 tzdata
+uARMSolver
 uberftp
 uboot-tools
 ubridge
@@ -9266,7 +9292,6 @@ ularn
 ultimatestunts
 umbrello
 uml_utilities
-umockdev
 umph
 umr
 unar
@@ -9288,6 +9313,7 @@ unixcw
 unixODBC
 unixODBC-gui-qt
 unoconv
+unrealircd
 unrtf
 unshield
 unuran
@@ -9379,7 +9405,6 @@ vdr-screenshot
 vdr-skinelchihd
 vdr-skinenigmang
 vdr-skinnopacity
-vdr-skinsoppalusikka
 vdr-streamdev
 vdr-tvguide
 vdr-vnsiserver
@@ -9408,6 +9433,7 @@ vips
 virt-p2v
 virt-top
 VirtualGL
+virtualpg
 virtualplanet
 virt-v2v
 virt-viewer
@@ -9449,7 +9475,6 @@ vsqlite++
 vtable-dumper
 vte
 vtk
-vtun
 vulkan-headers
 vulkan-loader
 vulkan-validation-layers
@@ -9459,10 +9484,12 @@ w3m
 waffle
 wagyu
 waiverdb
+wangle
 warmux
 warsow
 warzone2100
 watchdog
+watchman
 wavbreaker
 wavemon
 wavpack
@@ -9502,7 +9529,6 @@ whysynth-dssi
 wicked
 wide-dhcpv6
 widelands
-wifi-radar
 wiggle
 wiiuse
 wildmagic5
@@ -9715,6 +9741,7 @@ xgrep
 xgridloc
 xinetd
 xiphos
+xkbcomp
 xkbset
 xkb-switch
 xkeyboard-config
@@ -9787,7 +9814,6 @@ xorg-x11-xbitmaps
 xorg-x11-xdm
 xorg-x11-xfs
 xorg-x11-xinit
-xorg-x11-xkb-utils
 xorg-x11-xtrans-devel
 xorgxrdp
 xosd
@@ -9883,6 +9909,7 @@ ytnef
 ytree
 yubico-piv-tool
 yubihsm-shell
+yubikey-manager-qt
 yubikey-personalization-gui
 yubikey-val
 yubioath-desktop

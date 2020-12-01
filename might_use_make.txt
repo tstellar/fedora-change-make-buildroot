@@ -63,6 +63,7 @@ bijiben
 binaryen
 bitstream-vera-fonts
 bmake
+bodhi
 boo
 boost
 bout++
@@ -147,6 +148,7 @@ did
 direnv
 dist-git
 dl-fedora
+dmlite
 dmz-cursor-themes
 dnsjava
 docbook5-style-xsl
@@ -213,7 +215,6 @@ esound
 espresso
 etcd
 evince
-execdb
 exim-doc
 expected
 fakeroot
@@ -222,6 +223,7 @@ fastd
 fedfind
 fedmod
 fedora-gnat-project-common
+fedora-logos
 fedora-messaging
 fedora-obsolete-packages
 fedora-release
@@ -257,7 +259,6 @@ frozen-bubble
 fs_mark
 fusesource-pom
 fwupd
-gala
 gamehub
 GAPDoc
 gappa
@@ -387,6 +388,7 @@ ghc-either
 ghc-extra
 ghc-free
 ghc-http-client
+ghc-http-client-openssl
 ghc-hxt
 ghc-rfc5051
 ghc-rio
@@ -406,7 +408,9 @@ gitolite3
 git-publish
 gjs
 glade
+glib2
 glibc32
+glibmm24
 glib-networking
 gl-manpages
 glmark2
@@ -478,6 +482,7 @@ golang-github-coreos-gexpect
 golang-github-d4l3k-messagediff
 golang-github-dpotapov-spnego
 golang-github-elithrar-simple-scrypt
+golang-github-facebook-ent
 golang-github-facebookgo-httpdown
 golang-github-geertjohan-rice
 golang-github-git-lfs-netrc
@@ -683,7 +688,6 @@ layla-fonts
 lector
 legendsbrowser
 legofy
-L-function
 libacars
 libaccounts-glib
 libannodex
@@ -712,14 +716,12 @@ libmpdclient
 libnotify
 libolm
 libplacebo
-libqmatrixclient
 libqtolm
 libquotient
 librepository
 libscn
 libsigc++20
 libsoup
-libtaskotron
 libthai
 libtopology
 libvirt
@@ -776,6 +778,7 @@ micronucleus
 minder
 mine_detector
 mingw-adwaita-icon-theme
+mingw-adwaita-qt
 mingw-angleproject
 mingw-antlr
 mingw-atkmm
@@ -801,7 +804,6 @@ mingw-djvulibre
 mingw-dlfcn
 mingw-drmingw
 mingw-eigen3
-mingw-enchant
 mingw-enchant2
 mingw-exiv2
 mingw-expat
@@ -827,7 +829,6 @@ mingw-gettext
 mingw-giflib
 mingw-glew
 mingw-glib2
-mingw-glibmm24
 mingw-glslang
 mingw-gmp
 mingw-gnutls
@@ -835,7 +836,6 @@ mingw-goocanvas2
 mingw-graphite2
 mingw-gsl
 mingw-gstreamer
-mingw-gstreamer1-plugins-bad-free
 mingw-gstreamer-plugins-base
 mingw-gtk2
 mingw-gtk3
@@ -910,6 +910,7 @@ mingw-libzip
 mingw-llvm
 mingw-log4c
 mingw-mediawriter
+mingw-minizip
 mingw-mpfr
 mingw-nettle
 mingw-nsis
@@ -948,6 +949,7 @@ mingw-qt5-qtimageformats
 mingw-qt5-qtlocation
 mingw-qt5-qtmultimedia
 mingw-qt5-qtquickcontrols
+mingw-qt5-qtquickcontrols2
 mingw-qt5-qtscript
 mingw-qt5-qtsensors
 mingw-qt5-qtserialport
@@ -1004,7 +1006,7 @@ mingw-xz
 mingw-yaml-cpp
 mingw-zfstream
 mingw-zlib
-miniupnpd
+mingw-zstd
 mint-themes
 mirrormanager2
 mkvtoolnix
@@ -1049,6 +1051,7 @@ ndiscover-exo-2-fonts
 nekohtml
 nekovm
 nemo
+neochat
 netpanzer
 netty-tcnative
 newtonsoft-json
@@ -1081,7 +1084,6 @@ nodejs-whet-dot-extend
 nodeunit
 nodoka-theme-gnome
 non-daw
-nspr
 nunit
 nunit2
 nvmetcli
@@ -1098,11 +1100,13 @@ ocaml-ounit
 ocaml-ppx-deriving
 octave-dicom
 octave-parallel
+octave-symbolic
 odcs
 oflb-goudy-bookletter-1911-fonts
 ogre-pagedgeometry
 olpc-kbdshim
 onionshare
+opal-prd
 openarena
 openas2
 opencsd
@@ -1207,6 +1211,7 @@ php-andrewsville-php-token-reflection
 php-aws-sdk3
 php-bacon-qr-code2
 php-bartlett-PHP-CompatInfo
+php-brick-math
 php-brick-varexporter
 php-cache-integration-tests
 php-cache-tag-interop
@@ -1214,8 +1219,6 @@ php-captchaphp
 php-cilex1
 php-codeception-verify
 php-composer-ca-bundle
-php-composer-semver
-php-composer-semver2
 php-composer-semver3
 php-composer-spdx-licenses
 php-composer-xdebug-handler
@@ -1388,6 +1391,7 @@ php-phpseclib-crypt-twofish
 php-phpseclib-net-sftp
 php-phpseclib-net-ssh2
 php-phpspec-prophecy
+php-phpspec-prophecy-phpunit
 php-phpunitgoodpractices-polyfill
 php-phpunit-php-code-coverage9
 php-phpunit-php-file-iterator3
@@ -1400,6 +1404,8 @@ php-phpunit-php-timer5
 php-phpunit-php-token-stream4
 php-phpunit-PHPUnit
 php-pimple
+php-ramsey-collection
+php-ramsey-uuid
 php-react-stream
 php-sabre-event5
 php-sabre-http5
@@ -1645,6 +1651,7 @@ python-mock
 python-modernize
 python-moksha-hub
 python-mpd2
+python-mrcrowbar
 python-msal-extensions
 python-multilib
 python-munch
@@ -1661,6 +1668,7 @@ python-numpy-stl
 python-oauth2
 python-okaara
 python-openshift
+python-packaging
 python-paho-mqtt
 python-pandocfilters
 python-paperwork-backend
@@ -1698,6 +1706,7 @@ python-pydbus
 python-pydicom
 python-pyfim
 python-pygeoip
+python-pyglet
 python-pykafka
 python-pylibravatar
 python-pymatreader
@@ -1715,6 +1724,7 @@ python-pyscaffold
 python-pysctp
 python-pysmt
 python-pytest4
+python-pytest-httpx
 python-pytest-mpl
 python-pytest-repeat
 python-pywt
@@ -1774,6 +1784,7 @@ python-unidecode
 python-unipath
 python-urlgrabber
 python-varlink
+python-vcrpy
 python-vcstool
 python-versiontools
 python-virtualenv
@@ -1812,6 +1823,7 @@ R-assertthat
 R-backports
 R-BiocParallel
 rbldnsd
+rb_libtorrent
 R-broom
 R-DBI
 rdma-core
@@ -1843,6 +1855,7 @@ roca-detect
 roundcubemail
 R-pak
 rpkg
+rpkg-macros
 rpkg-util
 R-preprocessCore
 R-presser
@@ -1919,7 +1932,7 @@ rubygem-racc
 rubygem-rack-cors
 rubygem-raindrops
 rubygem-rdiscount
-rubygem-ronn
+rubygem-ronn-ng
 rubygem-rspec
 rubygem-rspec2
 rubygem-rsvg2
@@ -1955,7 +1968,6 @@ rust-brotli
 rust-brotli-decompressor
 rust-bzip2-sys
 rust-cargo-bloat
-rust-cbindgen
 rust-cmake
 rust-cpuid-bool
 rust-curl-sys
@@ -1994,7 +2006,6 @@ serp
 setools
 shaderc
 shake
-shared-mime-info
 sharpfont
 shim
 shogun-data
@@ -2036,6 +2047,7 @@ smc-suruma-fonts
 snapd-glib
 snappy-java
 sos
+soundconverter
 sound-juicer
 spdlog
 spectral
@@ -2075,7 +2087,6 @@ systemd
 tali
 targetd
 task
-taskotron-trigger
 taxi
 tdlib
 teeworlds
@@ -2113,6 +2124,7 @@ tycho
 typesetit-great-vibes-fonts
 ufw
 uim
+umockdev
 unpaper
 uqm
 urw-base35-fonts
@@ -2148,6 +2160,7 @@ waifu2x-converter-cpp
 wayfire
 waypipe
 wcstools
+weasyprint
 webp-pixbuf-loader
 webtech
 weiweihuanghuang-work-sans-fonts

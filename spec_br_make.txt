@@ -6,7 +6,6 @@ abc
 abduco
 ack
 adobe-afdko
-aeskeyfind
 aha
 ahven
 aide
@@ -172,7 +171,6 @@ ezstream
 facter
 fapolicyd
 fast-cdr
-fawkes
 fes
 ffcall
 fflas-ffpack

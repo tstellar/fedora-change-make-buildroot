@@ -1,7 +1,6 @@
-Total: 22309
-Uses Make: 9945
-Might Use Make: 2202
-Last metadata expiration check: 3:05:24 ago on Tue 27 Oct 2020 02:45:52 PM UTC.
-BuildRequires Make: 2451
+Total: 22490
+Uses Make: 9972
+Might Use Make: 2215
+BuildRequires Make: 2796
 Fail with no make 5864
-Needs BuildRequires Make: 7986
+Needs BuildRequires Make: 7678
