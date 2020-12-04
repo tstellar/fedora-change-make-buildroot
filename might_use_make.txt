@@ -39,6 +39,7 @@ argbash
 args4j
 artifacts
 artwiz-aleczapka-fonts
+asdcplib
 atanks
 atk
 atlas
@@ -172,7 +173,6 @@ drupal7-strongarm
 drupal7-title
 drupal7-votingapi
 drupal8
-dumb-init
 dxf2gcode
 easymock
 ecj
@@ -618,6 +618,7 @@ jack-audio-connection-kit
 jackson-dataformats-binary
 jackson-dataformats-text
 jackson-modules-base
+jakarta-json
 jakarta-oro
 java-1.8.0-openjdk
 javacc
@@ -839,7 +840,6 @@ mingw-gstreamer
 mingw-gstreamer-plugins-base
 mingw-gtk2
 mingw-gtk3
-mingw-gtkglext
 mingw-gtkmm24
 mingw-gtkmm30
 mingw-gtksourceview3
@@ -1099,6 +1099,7 @@ ocaml-ocplib-endian
 ocaml-ounit
 ocaml-ppx-deriving
 octave-dicom
+octave-flexiblas
 octave-parallel
 octave-symbolic
 odcs
@@ -1183,7 +1184,6 @@ perl-SDL
 perl-SNMP-Info
 perl-String-Random
 perl-SVG-Graph
-perl-Sys-Virt
 perl-Test-Assert
 perl-Test-ConsistentVersion
 perl-Test-Fake-HTTPD
@@ -1703,7 +1703,6 @@ python-pyasn1
 python-pybtex
 python-pybtex-docutils
 python-pydbus
-python-pydicom
 python-pyfim
 python-pygeoip
 python-pyglet
@@ -1759,6 +1758,7 @@ python-sphinxcontrib-issuetracker
 python-sphinx-copybutton
 python-sphinx-intl
 python-sqlalchemy
+python-strictyaml
 python-structlog
 python-suds
 python-supersmoother
@@ -1833,6 +1833,7 @@ reg
 regexp
 regindexer
 remake
+remmina
 resultsdb
 resultsdb_frontend
 retext

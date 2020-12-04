@@ -204,7 +204,6 @@ arts
 asc
 ascii
 asciidoc
-asdcplib
 aseman-qt-tools
 asio
 asl
@@ -621,7 +620,6 @@ cegui06
 celestia
 cellwriter
 celt051
-celt071
 centerim
 ceph
 cereal
@@ -1123,7 +1121,6 @@ dnfdragora
 dnf-plugin-diff
 dnf-plugins-core
 dnf-plugins-extras
-dnscap
 dnscrypt-proxy
 dnscrypt-proxy-gui
 dnsdist
@@ -1198,6 +1195,7 @@ duel3
 duff
 duktape
 dumb
+dumb-init
 dump
 dumpet
 dunst
@@ -2330,7 +2328,6 @@ hyperscan
 hyphen
 hypre
 i2c-tools
-i3
 i3lock
 i3status
 iaxclient
@@ -3100,7 +3097,6 @@ libb2
 libb64
 libbatch
 libbgpdump
-libbind
 libbinio
 libblockdev
 libbluray
@@ -5816,6 +5812,7 @@ perl-File-Copy-Recursive
 perl-File-Copy-Recursive-Reduced
 perl-File-DesktopEntry
 perl-File-DirCompare
+perl-File-DirList
 perl-File-Edit-Portable
 perl-File-ExtAttr
 perl-File-FcntlLock
@@ -7914,6 +7911,7 @@ pyotherside
 pyparted
 PyQt4
 pyqtwebengine
+pystring
 pysvn
 pythia8
 python2.7
@@ -8310,6 +8308,7 @@ re2c
 readline
 readosm
 realmd
+realtime-setup
 rear
 reaver
 rebase-helper
@@ -8335,7 +8334,6 @@ rejson
 rekollect
 rekonq
 remctl
-remmina
 ren
 renameutils
 renderdoc
@@ -8987,7 +8985,6 @@ taglib-extras
 taglib-sharp
 tagtool
 talk
-tang
 tangerine
 tango-icon-theme
 tango-icon-theme-extras
@@ -9468,7 +9465,6 @@ votca-tools
 votca-xtp
 vpnc
 vrms-rpm
-vrpn
 vrq
 vsftpd
 vsqlite++

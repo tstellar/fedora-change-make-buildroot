@@ -19,7 +19,6 @@ abe
 abiword
 abook
 aboot
-abrt
 abrt-java-connector
 abseil-cpp
 accel-config
@@ -58,7 +57,6 @@ ags
 ahcpd
 aiksaurus
 aime
-aircrack-ng
 airinv
 airrac
 airspyone_host
@@ -158,7 +156,6 @@ arduino-ctags
 argon2
 argtable
 argus
-argyllcms
 arj
 ark
 armacycles-ad
@@ -181,7 +178,6 @@ arts
 asc
 ascii
 asciidoc
-asdcplib
 aseman-qt-tools
 asio
 asl
@@ -285,7 +281,6 @@ autossh
 autotrace
 avahi
 avarice
-avl
 avogadro
 avogadro2
 avogadro2-libs
@@ -430,7 +425,6 @@ blueman
 bluez
 bluez-hcidump
 bluez-tools
-bmon
 bochs
 bodr
 bogl
@@ -556,7 +550,6 @@ ccnet
 ccrypt
 ccze
 cdargs
-cdbs
 cdcollect
 cd-discid
 cdk
@@ -668,7 +661,6 @@ cmocka
 cmospwd
 cmrt
 cmst
-cntlm
 co2mon
 coan
 coccinelle
@@ -743,7 +735,6 @@ corkscrew
 corosync
 corosync-qdevice
 corrida
-courier-unicode
 cowpatty
 cp2k
 cpdup
@@ -1028,7 +1019,6 @@ dolphin
 dolphin-connector
 dolphin-emu
 dolphin-plugins
-domoticz
 dos2unix
 dosbox
 dosfstools
@@ -1102,7 +1092,6 @@ e16-themes
 e2fsprogs
 e2tools
 e3
-earlyoom
 easystroke
 easytag
 eblook
@@ -1178,11 +1167,9 @@ emerald-themes
 enblend
 enca
 enchant
-enchant2
 enet
 engauge-digitizer
 engrampa
-engrid
 enigma
 ensmallen
 entr
@@ -1224,11 +1211,9 @@ ETL
 ettercap
 eureka
 eurephia
-evemu
 eventlog
 evolution-rspam
 evolution-rss
-evtest
 examiner
 execstack
 exempi
@@ -1279,7 +1264,6 @@ fastx_toolkit
 fatrace
 fatresize
 fatsort
-FAudio
 faust
 fb303
 fbb
@@ -1391,7 +1375,6 @@ fleet-commander-admin
 fleet-commander-client
 flent
 flex
-flexiblas
 flexiport
 flickcurl
 FlightCrew
@@ -1429,7 +1412,6 @@ fontforge
 fontopia
 fonts-KOI8-R
 fonts-tweak-tool
-foo2zjs
 foobillard
 foremost
 fortune-mod
@@ -1586,8 +1568,6 @@ genius
 genromfs
 gentoo
 genwqe-tools
-GeographicLib
-geometry-hpp
 geomorph
 geomview
 gerbera
@@ -1608,7 +1588,6 @@ ghc-failure
 ghdl
 ghemical
 ghostscript
-ghostwriter
 giada
 gif2png
 gifsicle
@@ -1640,7 +1619,6 @@ git-remote-hg
 git-secret
 git-secrets
 gitstats
-git-subrepo
 gitweb-caching
 giver
 gkermit
@@ -1822,7 +1800,6 @@ gnugo
 gnujump
 gnulib
 gnumeric
-gnupg1
 gnupg2
 gnupg-pkcs11-scd
 gnuplot
@@ -1845,7 +1822,6 @@ golang-github-pmezard-difflib
 golang-github-segmentio-kafka
 golang-tinygo-x-llvm
 GoldenCheetah
-goldendict
 goocanvas
 goocanvas2
 goocanvasmm
@@ -1927,7 +1903,6 @@ gsoap
 gsound
 gspell
 gssntlmssp
-gssproxy
 gst123
 gst-entrans
 gstream
@@ -2005,7 +1980,6 @@ hans
 haproxy
 harfbuzz
 harmonyseq
-hashcat
 hatari
 hatools
 haveged
@@ -2029,7 +2003,6 @@ hello
 help2man
 HepMC
 HepMC3
-herbstluftwm
 hercstudio
 hercules
 Hermes
@@ -2044,7 +2017,6 @@ hfsplus-tools
 hfsutils
 hicolor-icon-theme
 hidapi
-hid-replay
 hidviz
 highcontrast-qt
 highlight
@@ -2067,7 +2039,6 @@ hpl
 hpx
 hsakmt
 hstr
-ht
 htmlcxx
 htmldoc
 htop
@@ -2182,7 +2153,6 @@ im-chooser
 imlib2
 immix
 imsettings
-imvirt
 imwheel
 inadyn-mt
 inchi
@@ -2250,7 +2220,6 @@ iso8859-2-fonts
 iso-codes
 isoimagewriter
 isomaster
-isomd5sum
 ispc
 isync
 itcl
@@ -2614,7 +2583,6 @@ kiten
 kitty
 kitutuki
 kiwi-boxed-plugin
-kiwix-desktop
 kjots
 kjumpingcube
 klamav
@@ -2676,7 +2644,6 @@ kproperty
 kqoauth-qt5
 kqtquickcharts
 krazy2
-krb5
 krb5-auth-dialog
 krdc
 krecipes
@@ -2793,7 +2760,6 @@ lcdproc
 lcg-infosites
 lcm
 lcmaps
-lcms
 lcms2
 lcov
 ldapdiff
@@ -2921,7 +2887,6 @@ libdkimpp
 libdmapsharing
 libdmapsharing4
 libdmtx
-libdmx
 libdnet
 libdnf
 libdockapp
@@ -2932,7 +2897,6 @@ libdv
 libdvbpsi
 libdvdnav
 libdvdread
-libdwarf
 libdxflib
 libdxfrw
 libeasyfc
@@ -2977,9 +2941,7 @@ libfixposix
 libfli
 libfm
 libfm-qt
-libfontenc
 libfreehand
-libFS
 libftdi
 libg15render
 libgadu
@@ -3023,7 +2985,6 @@ libgtextutils
 libgtop2
 libgudev
 libguess
-libguestfs
 libgxim
 libhangul
 libharu
@@ -3035,7 +2996,6 @@ libHX
 libibcommon
 libica
 libical
-libICE
 libicns
 libicu65
 libid3tag
@@ -3207,7 +3167,6 @@ liborcus
 liborigin
 libosinfo
 libosip2
-libosmium
 libosmocore
 libosmo-dsp
 libotf
@@ -3238,7 +3197,6 @@ libpq
 libpqxx
 libprelude
 libpreludedb
-libpri
 libprojectM
 libproxy
 libpsm2
@@ -3319,7 +3277,6 @@ libsigrokdecode
 libsigsegv
 libskk
 libslz
-libSM
 libsmbios
 libsmi
 libsndfile
@@ -3409,7 +3366,6 @@ libva-intel-hybrid-driver
 libva-utils
 libva-vdpau-driver
 libvdpau-va-gl
-libverto
 libverto-jsonrpc
 libvidcap
 libvirt-cim
@@ -3445,7 +3401,6 @@ libxdg-basedir
 libxdiff
 libxfce4ui
 libxfce4util
-libxls
 libxmp
 libxnm
 libXpm
@@ -3454,7 +3409,6 @@ libxsmm
 libXtst
 libyami
 libyami-utils
-libyaml
 libyang
 libykneomgr
 libyubikey
@@ -3688,7 +3642,6 @@ magicmaze
 MagicPoint
 mailcap
 maildir-utils
-maildrop
 mailman
 mail-notification
 mailx
@@ -3716,8 +3669,6 @@ man-pages-ja
 man-pages-l10n
 man-pages-pl
 man-pages-zh-CN
-mapbox-variant
-mapnik
 mapserver
 maradns
 marble
@@ -4022,7 +3973,6 @@ minimodem
 minipro
 minisign
 miniupnpc
-miniupnpd
 minizip
 mint-themes
 minuet
@@ -4049,7 +3999,6 @@ mmv
 moarvm
 mobile-broadband-provider-info
 mod2c
-mod_auth_gssapi
 mod_auth_mellon
 mod_auth_ntlm_winbind
 mod_auth_openid
@@ -4074,7 +4023,6 @@ molsketch
 mom
 mon
 monafont
-mongo-c-driver
 mongo-cxx-driver
 mongoose
 monit
@@ -4140,7 +4088,6 @@ msort
 mspdebug
 msr-tools
 mstflint
-mtdev
 mtd-utils
 mtools
 mtpaint
@@ -4385,7 +4332,6 @@ obs-service-download_files
 obs-service-recompress
 obs-service-rust2rpm
 obs-service-tar_scm
-obs-signd
 ocaml
 ocaml-ancient
 ocaml-augeas
@@ -4455,7 +4401,6 @@ ocspd
 octave
 octave-communications
 octave-control
-octave-flexiblas
 octave-general
 octave-gsl
 octave-image
@@ -4617,10 +4562,8 @@ osinfo-db-tools
 osm2pgsql
 osmctools
 osm-gps-map
-osmium-tool
 osmo
 osmo-fl2k
-osmpbf
 os-prober
 ostree
 ostrichriders
@@ -4654,7 +4597,6 @@ pakiti
 pal
 palapeli
 palp
-pam
 pam_2fa
 pam_abl
 pam_afs_session
@@ -4677,7 +4619,6 @@ pan
 pangomm
 Panini
 panoglview
-paperkey
 papi
 papirus-icon-theme
 paps
@@ -4725,7 +4666,6 @@ pcsc-lite-acsccid
 pcsc-lite-ccid
 pcsc-tools
 pcsxr
-PDAL
 pdf2djvu
 pdf2svg
 pdfcrack
@@ -4839,7 +4779,6 @@ perl-Class-Inspector
 perl-Class-Loader
 perl-Class-Observable
 perl-Class-ReturnValue
-perl-Class-Singleton
 perl-Class-Std-Fast
 perl-Class-Virtual
 perl-Class-Whitehole
@@ -4952,7 +4891,6 @@ perl-Finance-YahooQuote
 perl-Font-AFM
 perl-Font-TTFMetrics
 perl-Frontier-RPC
-perl-Fsdb
 perl-Geo-Constants
 perl-Geo-Ellipsoids
 perl-Geo-Forward
@@ -5426,7 +5364,6 @@ pgpdump
 pgp-tools
 pg_repack
 pgRouting
-pg-semver
 pgsphere
 pg_top
 phasex
@@ -5437,7 +5374,6 @@ phonon-qt4
 phonon-qt4-backend-gstreamer
 photoqt
 phototonic
-php
 php-ast
 php-facedetect
 php-geos
@@ -5505,7 +5441,6 @@ picocom
 pidgin
 pidgin-birthday-reminder
 pidgin-chime
-pidgin-groupchat-typing-notifications
 pidgin-guifications
 pidgin-indicator
 pidgin-libnotify
@@ -5514,7 +5449,6 @@ pidgin-otr
 pidgin-privacy-please
 pidgin-save-conv-order
 pidgin-sipe
-pidgin-toobars
 pidgin-window-merge
 piglit
 pigz
@@ -5580,7 +5514,6 @@ pmdk-convert
 pmemkv
 pmix
 pmount
-pngcheck
 pngnq
 pngquant
 pocketsphinx
@@ -5658,7 +5591,6 @@ progress
 prosody
 protobuf
 protobuf-c
-protozero
 proxychains-ng
 proxysql
 prusa-slicer
@@ -5689,14 +5621,9 @@ pulseaudio-qt
 pulseview
 pungi
 pure-ftpd
-purple-discord
 purple-facebook
-purple-hangouts
-purple-libsteam
-purple-matrix
 purple-mattermost
 purple-plugin_pack
-purple-skypeweb
 purple-telegram
 puzzle-master
 puzzles
@@ -5714,13 +5641,13 @@ pygtk2
 pykka
 pylibgamerzilla
 pyOpenSSL
-pyosmium
 pyotherside
 pyparted
 pyproj
 pypy3
 PyQt4
 pyqtwebengine
+pystring
 pysvn
 pythia8
 python2.7
@@ -5951,7 +5878,6 @@ qperf
 qpid-proton
 qqc2-desktop-style
 qqwing
-qr-code-generator
 qrencode
 qrmumps
 qroneko
@@ -6050,7 +5976,6 @@ quentier
 quesoglc
 quicksynergy
 quick-usb-formatter
-quilt
 quitcount
 quiterss
 quotatool
@@ -6083,9 +6008,7 @@ raidem
 rakarrack
 rancid
 Random123
-rapidjson
 rapidsvn
-rapidxml
 raptor
 raptor2
 rarian
@@ -6146,7 +6069,6 @@ rejson
 rekollect
 rekonq
 remctl
-remmina
 ren
 renameutils
 renrot
@@ -6189,7 +6111,6 @@ rocksndiamonds
 rocminfo
 rocm-runtime
 rocs
-rofi
 root
 rootsh
 rosegarden4
@@ -6202,7 +6123,6 @@ rpcsvc-proto
 rpki-client
 rpld
 rply
-rpmconf
 rpmdevtools
 rpm-git-tag-sort
 rpmlint
@@ -6221,7 +6141,6 @@ rss-glx
 rssguard
 rssh
 rstp
-rstudio
 rsvndump
 rsync
 rsync-bpc
@@ -6324,7 +6243,6 @@ rwall
 rwho
 RxCpp
 rxtx
-rxvt-unicode
 rzip
 s390utils
 Saaghar
@@ -6343,7 +6261,6 @@ samplv1
 samtools
 saphire
 sassc
-satyr
 sawfish
 sawfish-pager
 sayonara
@@ -6666,7 +6583,6 @@ srecord
 srm
 srt
 ssdeep
-sselp
 ssh-contact
 sshguard
 sshpass
@@ -7240,7 +7156,6 @@ votca-tools
 votca-xtp
 vpnc
 vrms-rpm
-vrpn
 vrq
 vsftpd
 vsqlite++
@@ -7254,7 +7169,6 @@ vxl
 vym
 w3m
 waffle
-wagyu
 waiverdb
 wangle
 warmux
@@ -7304,7 +7218,6 @@ wildmidi
 wimlib
 WindowMaker
 WindowMaker-extra
-wine
 wine-mono
 winetricks
 wings
@@ -7497,7 +7410,6 @@ xinetd
 xiphos
 xkbset
 xkb-switch
-xkeyboard-config
 xkeycaps
 xl2tpd
 xlcrack
