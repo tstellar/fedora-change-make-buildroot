@@ -1273,6 +1273,7 @@ lasi
 laszip
 latexmk
 lato-fonts
+latte-dock
 layla-fonts
 lector
 ledger

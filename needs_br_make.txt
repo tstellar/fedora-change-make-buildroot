@@ -2203,7 +2203,6 @@ latencytop
 latex2html
 latex2rtf
 latex-mk
-latte-dock
 laughlin-backgrounds
 launchy
 lazarus

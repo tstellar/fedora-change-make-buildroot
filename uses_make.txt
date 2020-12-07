@@ -2438,7 +2438,6 @@ latex2html
 latex2rtf
 latex-mk
 LaTeXML
-latte-dock
 latte-integrale
 laughlin-backgrounds
 launchy
