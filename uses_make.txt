@@ -727,7 +727,6 @@ constantine-backgrounds
 container-storage-setup
 convmv
 cook
-coolreader
 cool-retro-term
 COPASI
 copr-backend
@@ -1153,6 +1152,7 @@ enblend
 enca
 enchant
 enchant2
+endlessh
 enet
 engauge-digitizer
 engrampa
@@ -3650,7 +3650,6 @@ mod_nss
 mod_perl
 mod_psgi
 mod_qos
-mod_revocator
 mod_security
 mod_selinux
 mod_suphp

@@ -160,6 +160,7 @@ CheMPS2
 chromaprint
 chrome-gnome-shell
 chromium
+chunkfs
 cinnamon-control-center
 cinnamon-screensaver
 cinnamon-session
@@ -204,6 +205,7 @@ console-bridge
 container-selinux
 conu
 converseen
+coolreader
 copr-cli
 copr-dist-git
 copr-frontend
@@ -774,6 +776,7 @@ golang-github-nsf-termbox
 golang-github-opentracing-contrib-grpc
 golang-github-peterbourgon-g2s
 golang-github-pquerna-cachecontrol
+golang-github-prometheus
 golang-github-rs-xid
 golang-github-ryanuber-columnize
 golang-github-shopify-toxiproxy
@@ -2228,6 +2231,7 @@ pychess
 pydot
 pyelftools
 pygobject3
+pygrib
 pyhunspell
 pykka
 pylibgamerzilla
@@ -2319,6 +2323,7 @@ python-extension-helpers
 python-extras
 python-eyed3
 python-falcon
+python-fasjson-client
 python-fastavro
 python-fedora
 python-feedparser
@@ -2611,6 +2616,7 @@ rbldnsd
 rb_libtorrent
 R-broom
 rclone-browser
+R-conflicted
 R-DBI
 rdma-core
 realTimeConfigQuickScan
@@ -2863,6 +2869,7 @@ SimGear
 simple-jndi
 simple-mail
 simple-scan
+sip5
 sipwitch
 skanlite
 skkdic
@@ -3082,7 +3089,6 @@ waylandpp
 waypipe
 wcm
 wcstools
-weasyprint
 webkit2gtk3
 webp-pixbuf-loader
 websocketpp

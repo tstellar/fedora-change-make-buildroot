@@ -491,7 +491,6 @@ cbmc
 cbootimage
 cbrpager
 ccd2iso
-ccdciel
 CCfits
 cciss_vol_status
 ccnet
@@ -644,7 +643,6 @@ conspy
 constantine-backgrounds
 container-storage-setup
 cook
-coolreader
 cool-retro-term
 COPASI
 copr-backend
@@ -3417,7 +3415,6 @@ mISDN
 mkbootdisk
 mkproject
 mktorrent
-mld2p4
 mlocate
 mlpack
 mlt
@@ -3445,7 +3442,6 @@ mod_log_post
 mod_md
 mod_mono
 mod_nss
-mod_revocator
 mod_selinux
 mod_suphp
 mod_wsgi
@@ -3501,7 +3497,6 @@ mpdscribble
 mpg123
 mpibash
 mpich
-mpir
 mpop
 mpqc
 mpssh
@@ -4727,7 +4722,6 @@ perl-XML-XPathEngine
 perl-YUM-RepoQuery
 pesign
 pesign-test-app
-petsc
 petsc4py
 pfstools
 pgaudit
@@ -4930,7 +4924,6 @@ protobuf-c
 proxychains-ng
 proxysql
 psacct
-psblas3
 pscan
 pseudo
 psfex
@@ -5708,7 +5701,6 @@ sispmctl
 six
 sjasm
 sjinn
-skf
 ski
 skkdic
 skrooge

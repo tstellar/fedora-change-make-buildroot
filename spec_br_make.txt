@@ -62,6 +62,7 @@ catch
 catch1
 cc1541
 cc65
+ccdciel
 ccgo
 ccrtp
 cctz
@@ -173,6 +174,7 @@ emacs-async
 emacs-common-proofgeneral
 emacs-magit
 enchant2
+endlessh
 engrid
 enscript
 espeak-ng
@@ -522,6 +524,7 @@ mingw-vulkan-loader
 mingw-vulkan-validation-layers
 minisat2
 miniupnpd
+mld2p4
 mlmmj
 mmg
 moby-engine
@@ -541,6 +544,7 @@ moose
 mp
 mpfi
 mpfr
+mpir
 mpsolve
 mscore
 mtdev
@@ -2564,6 +2568,7 @@ perl-YAPE-Regex
 perl-ZMQ-Constants
 perl-ZMQ-LibZMQ4
 permlib
+petsc
 pforth
 pgadmin3
 pg-semver
@@ -2594,6 +2599,7 @@ prooftree
 protozero
 proxytunnel
 prwd
+psblas3
 psutils
 ptouch-driver
 purple-discord
@@ -2603,6 +2609,7 @@ purple-matrix
 purple-skypeweb
 putty
 pvs-sbcl
+pygrib
 pykickstart
 pynac
 pyosmium
@@ -2715,6 +2722,7 @@ Singular
 singularity
 sipwitch
 sirocco
+skf
 skipfish
 skopeo
 slibtool
