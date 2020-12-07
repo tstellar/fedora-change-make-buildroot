@@ -1452,7 +1452,6 @@ ganyremote
 gap
 gap-pkg-ace
 gap-pkg-browse
-gap-pkg-circle
 gap-pkg-cohomolo
 gap-pkg-crypting
 gap-pkg-curlinterface

@@ -4,6 +4,16 @@ uses_make=""
 might_use_make=""
 
 for f in rpm-specs/*; do
+
+    # Skip some known false positives:
+    case $f in
+        rpm-specs/gap-pkg-circle.spec)
+            continue
+            ;;
+        *)
+            ;;
+    esac
+
     # Check if we for sure use make
     if grep -l -q -e %make_build -e %make_install -e %__make -e %{make_build} -e %{make_install} -e %{__make} -e '^make ' $f; then
         uses_make="$uses_make $f"

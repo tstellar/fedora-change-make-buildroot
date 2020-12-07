@@ -1299,7 +1299,6 @@ gammaray
 gammastep
 ganglia
 ganyremote
-gap-pkg-circle
 garcon
 garden
 GarminPlugin
