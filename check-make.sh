@@ -10,15 +10,6 @@ for f in rpm-specs/*; do
         continue
     fi
 
-    # Check if we use make via the %cmake_build macro
-    if grep -l -q -e %cmake_build -e %{cmake_build} $f; then
-    # If we use cmake with the ninja generator, then we aren't using make.    
-        if ! grep -q -l -e '-G Ninja' $f; then
-            uses_make="$uses_make $f"
-            continue
-        fi
-    fi
-
     # Check if something might use make
     if grep -q -e make $f; then
         might_use_make="$might_use_make $f"

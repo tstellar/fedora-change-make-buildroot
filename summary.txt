@@ -1,6 +1,6 @@
 Total: 22506
-Uses Make: 9968
-Might Use Make: 2216
+Uses Make: 9009
+Might Use Make: 3175
 BuildRequires Make: 2885
 Fail with no make 5864
-Needs BuildRequires Make: 7590
+Needs BuildRequires Make: 6729
