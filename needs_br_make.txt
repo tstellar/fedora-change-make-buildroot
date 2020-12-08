@@ -240,6 +240,7 @@ augeas
 augeas-vala
 aunit
 auriferous
+auryn
 authd
 authselect
 auto-buildrequires
@@ -644,6 +645,7 @@ corkscrew
 corosync
 corosync-qdevice
 corrida
+couchdb
 cowpatty
 cp2k
 cpdup
@@ -666,6 +668,7 @@ crack-attack
 cracklib
 crash
 crawl
+createrepo_c
 CriticalMass
 criu
 crm114
@@ -1039,6 +1042,7 @@ equalx
 erfa
 ergo
 erlang
+erlang-corba
 erlang-eleveldb
 erlang-etap
 erlang-gtknode
@@ -1318,6 +1322,7 @@ gc
 gcal
 gcin
 gcolor2
+gcolor3
 GConf2
 gconf-editor
 gconfmm26
@@ -1803,6 +1808,7 @@ hwinfo
 hwloc
 hw-probe
 hxtools
+hydrogen
 hyena
 hylafax+
 hyperestraier
@@ -2040,6 +2046,7 @@ kdebase3
 kdecoration
 kdegames3
 kde-i18n
+kde-l10n
 kdelibs
 kdelibs3
 kdepim3
@@ -3133,10 +3140,14 @@ mingw-angleproject
 mingw-antlr
 mingw-atkmm
 mingw-binutils
+mingw-brotli
 mingw-bzip2
 mingw-cairo
 mingw-cairomm
 mingw-c-ares
+mingw-celt051
+mingw-clucene
+mingw-cmocka
 mingw-colord
 mingw-colord-gtk
 mingw-colorhug-client
@@ -3146,12 +3157,14 @@ mingw-curl
 mingw-dbus
 mingw-dbus-glib
 mingw-dirac
+mingw-dlfcn
 mingw-enchant
 mingw-enchant2
 mingw-expat
 mingw-fcgi
 mingw-fftw
 mingw-flac
+mingw-fltk
 mingw-fontconfig
 mingw-freeglut
 mingw-freeimage
@@ -3172,6 +3185,7 @@ mingw-gsl
 mingw-gsm
 mingw-gstreamer
 mingw-gstreamer1-plugins-bad-free
+mingw-gstreamer-plugins-base
 mingw-gtk2
 mingw-gtk3
 mingw-gtkmm24
@@ -3188,6 +3202,7 @@ mingw-hidapi
 mingw-hunspell
 mingw-icu
 mingw-id3lib
+mingw-jansson
 mingw-jimtcl
 mingw-lcms
 mingw-lcms2
@@ -3197,6 +3212,7 @@ mingw-libcharset
 mingw-libconfuse
 mingw-libcroco
 mingw-libffi
+mingw-libftdi
 mingw-libgcrypt
 mingw-libgeotiff
 mingw-libglade2
@@ -3236,8 +3252,10 @@ mingw-libwebp
 mingw-libxml2
 mingw-libxslt
 mingw-log4c
+mingw-mediawriter
 mingw-mpfr
 mingw-nettle
+mingw-openal-soft
 mingw-openssl
 mingw-opus
 mingw-opusfile
@@ -3249,6 +3267,7 @@ mingw-pcre2
 mingw-pdcurses
 mingw-pkg-config
 mingw-plotmm
+mingw-polyclipping
 mingw-portablexdr
 mingw-portaudio
 mingw-postgresql
@@ -3291,6 +3310,7 @@ mingw-speexdsp
 mingw-spice-protocol
 mingw-sqlite
 mingw-srvany
+mingw-sword
 mingw-tcl
 mingw-termcap
 mingw-tesseract
@@ -3306,6 +3326,7 @@ mingw-wxWidgets
 mingw-wxWidgets3
 mingw-xerces-c
 mingw-xz
+mingw-yaml-cpp
 mingw-zfstream
 mingw-zlib
 minicom
@@ -5401,6 +5422,7 @@ safelease
 saga
 sagator
 sage
+sagemath
 samba
 samdump2
 samefile
