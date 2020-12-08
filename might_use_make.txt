@@ -376,7 +376,6 @@ erlang-gtknode
 erlang-proper
 erlang-rebar3
 erlang-sd_notify
-esound
 espresso
 et
 etcd
@@ -1265,7 +1264,6 @@ lgogdownloader
 libacars
 libaccounts-glib
 libaec
-libannodex
 libapogee
 libappstream-glib
 libarcus
@@ -1365,7 +1363,6 @@ libsoup
 libspatialaudio
 libssh
 libsysstat
-libthai
 libtopology
 libuecc
 libuInputPlus
@@ -1675,7 +1672,6 @@ nanomsg
 natural-earth-map-data
 nautilus
 navilu-fonts
-ncview
 ndiscover-exo-2-fonts
 nekohtml
 nekovm

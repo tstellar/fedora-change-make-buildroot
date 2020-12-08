@@ -1185,6 +1185,7 @@ esh
 esmtp
 esniper
 esorex
+esound
 espeak
 espeak-ng
 espresso-ab
@@ -2502,6 +2503,7 @@ libaesgm
 libAfterImage
 libaio
 libalkimia
+libannodex
 libao
 libappindicator
 libapreq2
@@ -3006,6 +3008,7 @@ libteam
 libtelnet
 libtermkey
 libtevent
+libthai
 libtheora
 libticables2
 libticalcs2
@@ -3818,6 +3821,7 @@ nco
 ncompress
 ncrack
 ncurses
+ncview
 ndctl
 ndesk-dbus
 ndesk-dbus-glib
