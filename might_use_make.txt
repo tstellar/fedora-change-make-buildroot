@@ -39,7 +39,6 @@ android-tools
 anope
 antimicrox
 antimicroX
-antiword
 antlr4-project
 antlrworks
 aom
@@ -155,7 +154,6 @@ cereal
 ceres-solver
 certbot
 cervisia
-cfdg
 cgnslib
 CharLS
 chck
@@ -378,7 +376,6 @@ erlang-cl
 erlang-clique
 erlang-corba
 erlang-eimp
-erlang-eleveldb
 erlang-epam
 erlang-erlsom
 erlang-gen_leader

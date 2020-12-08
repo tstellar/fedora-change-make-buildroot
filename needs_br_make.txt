@@ -1039,6 +1039,7 @@ equalx
 erfa
 ergo
 erlang
+erlang-eleveldb
 erlang-etap
 erlang-gtknode
 erlang-rpm-macros

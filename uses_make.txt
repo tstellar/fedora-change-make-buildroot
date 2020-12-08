@@ -119,6 +119,7 @@ ansifilter
 anthy
 anthy-unicode
 antic
+antiword
 antlr
 antlr3
 ants
@@ -554,6 +555,7 @@ centerim
 ceph
 certmonger
 certwatch
+cfdg
 cfdg-fe
 cfitsio
 cflow
@@ -1166,6 +1168,7 @@ equalx
 erfa
 ergo
 erlang
+erlang-eleveldb
 erlang-etap
 erlang-rpm-macros
 erofs-utils

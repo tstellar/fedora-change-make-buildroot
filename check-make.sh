@@ -15,7 +15,7 @@ for f in rpm-specs/*; do
     esac
 
     # Check if we for sure use make
-    if grep -l -q -e '\(^\|[^%]\)%make_build' -e '\(^\|[^%]\)%make_install' -e '\(^\|[^%]\)%__make' -e '\(^\|[^%]\)%{make_build}' -e '\(^\|[^%]\)%{make_install}' -e '\(^\|[^%]\)%{__make}' -e '^make ' -e '^DESTDIR.\+make' $f; then
+    if grep -l -q -e '\(^\|[^%]\)%make_build' -e '\(^\|[^%]\)%make_install' -e '\(^\|[^%]\)%__make' -e '\(^\|[^%]\)%{make_build}' -e '\(^\|[^%]\)%{make_install}' -e '\(^\|[^%]\)%{__make}' -e '^make ' -e '^DESTDIR.\+make' -e '^OPT.\+make' $f; then
         uses_make="$uses_make $f"
         continue
     fi
