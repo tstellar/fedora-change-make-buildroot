@@ -44,6 +44,7 @@ bcg729
 bigloo
 bind
 bleachbit
+bliss
 bluefish
 bmon
 booth
@@ -2196,7 +2197,6 @@ perl-Sys-Syslog
 perl-System-Command
 perl-SystemC-Vregs
 perl-System-Info
-perl-Sys-Virt
 perl-Taint-Util
 perl-Tangerine
 perl-TAP-Harness-Multiple
@@ -2576,9 +2576,12 @@ pforth
 pgadmin3
 pg-semver
 php
+php-pecl-event
+php-pecl-xdebug3
 picojson
 picosat
 pidgin-groupchat-typing-notifications
+pidgin-sipe
 pidgin-toobars
 pkgconf
 pki-core
@@ -2617,8 +2620,15 @@ pykickstart
 pynac
 pyosmium
 pytest
+python2.7
+python3.5
+python3.6
+python3.7
+python3.8
+python3.9
 python-anyconfig
 python-bluepy
+python-breathe
 python-BTrees
 python-cocotb
 python-cups

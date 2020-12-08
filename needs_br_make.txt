@@ -4647,7 +4647,6 @@ php-pecl-apfd
 php-pecl-couchbase2
 php-pecl-dio
 php-pecl-ds
-php-pecl-event
 php-pecl-fann
 php-pecl-gearman
 php-pecl-geoip
@@ -4685,7 +4684,6 @@ php-pecl-uopz
 php-pecl-uuid
 php-pecl-xattr
 php-pecl-xdebug
-php-pecl-xdebug3
 php-pecl-xmldiff
 php-pecl-yac
 php-pecl-yaml
@@ -4706,7 +4704,6 @@ pidgin-logviewer
 pidgin-otr
 pidgin-privacy-please
 pidgin-save-conv-order
-pidgin-sipe
 pidgin-window-merge
 piglit
 pigz
@@ -4859,13 +4856,7 @@ PyQt4
 pyqtwebengine
 pysvn
 pythia8
-python2.7
 python3.10
-python3.5
-python3.6
-python3.7
-python3.8
-python3.9
 python3-cangjie
 python3-docs
 python3-rpm
@@ -4888,7 +4879,6 @@ python-biscuits
 python-bitstruct
 python-blivet
 python-bloom
-python-breathe
 python-btrfs
 python-caja
 python-catkin_pkg

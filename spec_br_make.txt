@@ -43,6 +43,7 @@ bcg729
 bigloo
 bind
 bleachbit
+bliss
 bluefish
 bmon
 booth
@@ -2573,9 +2574,12 @@ pforth
 pgadmin3
 pg-semver
 php
+php-pecl-event
+php-pecl-xdebug3
 picojson
 picosat
 pidgin-groupchat-typing-notifications
+pidgin-sipe
 pidgin-toobars
 pkgconf
 pki-core
@@ -2614,8 +2618,15 @@ pykickstart
 pynac
 pyosmium
 pytest
+python2.7
+python3.5
+python3.6
+python3.7
+python3.8
+python3.9
 python-anyconfig
 python-bluepy
+python-breathe
 python-BTrees
 python-cocotb
 python-cups

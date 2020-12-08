@@ -395,6 +395,7 @@ blaze
 bleachbit
 bless
 blis
+bliss
 blitz
 blivet-gui
 blktrace
