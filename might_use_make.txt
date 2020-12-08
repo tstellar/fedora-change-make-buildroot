@@ -36,7 +36,6 @@ ampache_browser
 analitza
 android-file-transfer
 android-tools
-anki
 anope
 antimicrox
 antimicroX
@@ -340,7 +339,6 @@ drupal8
 dvblinkremote
 dwarves
 dxf2gcode
-dyninst
 easymock
 easyrpg-player
 eccodes

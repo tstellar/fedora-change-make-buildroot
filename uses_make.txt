@@ -111,6 +111,7 @@ anaconda
 anaconda-realmd
 anet
 anjuta
+anki
 ann
 annobin
 ansible
@@ -1054,6 +1055,7 @@ dxpc
 dymo-cups-drivers
 dynamite
 dynaplugz
+dyninst
 E
 e00compr
 e16

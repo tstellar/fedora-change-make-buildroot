@@ -941,6 +941,7 @@ dxpc
 dymo-cups-drivers
 dynamite
 dynaplugz
+dyninst
 e00compr
 e16
 e16-docs
