@@ -328,6 +328,7 @@ drupal7-strongarm
 drupal7-title
 drupal7-votingapi
 drupal8
+dumb-init
 dvblinkremote
 dwarves
 dxf2gcode

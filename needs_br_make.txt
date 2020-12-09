@@ -292,7 +292,6 @@ balsa
 bamf
 banner
 bannergrab
-banshee
 banshee-community-extensions
 barcode
 bareftp
@@ -1158,7 +1157,6 @@ firewalld
 fityk
 fixedptc
 flac
-flac123
 flacon
 flam3
 flamerobin
@@ -1219,7 +1217,6 @@ fpart
 fpaste
 fpc
 fpdns
-fping
 fpm2
 fprobe-ulog
 free42
@@ -1274,7 +1271,6 @@ fuse-zip
 fvwm
 fwknop
 fwts
-fxload
 g2clib
 ga
 gabedit
@@ -3675,7 +3671,6 @@ ocaml-lacaml
 ocaml-lambda-term
 ocaml-libvirt
 ocaml-lwt
-ocaml-migrate-parsetree
 ocaml-mlgmpidl
 ocaml-mysql
 ocaml-newt
@@ -3929,7 +3924,6 @@ penguin-command
 pengupop
 percolator
 perftest
-peripety
 perl-Algorithm-Combinatorics
 perl-Algorithm-Dependency
 perl-Alien-ZMQ
@@ -4013,7 +4007,6 @@ perl-CGI-Session
 perl-CGI-Struct
 perl-CGI-Untaint-email
 perl-CHI
-perl-Class-Accessor-Chained
 perl-Class-Accessor-Lite
 perl-Class-Autouse
 perl-Class-DBI-Loader-Relationship
@@ -4023,7 +4016,6 @@ perl-Class-Inner
 perl-Class-Inspector
 perl-Class-Loader
 perl-Class-Observable
-perl-Class-ReturnValue
 perl-Class-Std-Fast
 perl-Class-Virtual
 perl-Class-Whitehole
@@ -4121,7 +4113,6 @@ perl-File-Find-Rule
 perl-File-Find-Rule-Perl
 perl-File-Flat
 perl-File-Inplace
-perl-File-KeePass
 perl-File-Remove
 perl-File-Rsync
 perl-File-ShareDir-PAR

@@ -320,7 +320,6 @@ balsa
 bamf
 banner
 bannergrab
-banshee
 banshee-community-extensions
 barcode
 bareftp
@@ -442,6 +441,7 @@ bowtie
 bowtie2
 Box2D
 boxes
+bpfmon
 bpytop
 brasero
 breezy
@@ -1042,7 +1042,6 @@ duel3
 duff
 duktape
 dumb
-dumb-init
 dump
 dumpet
 dunst
@@ -4314,7 +4313,6 @@ penguin-command
 pengupop
 percolator
 perftest
-peripety
 perl
 perl-Ace
 perl-Acme-Alien-DontPanic
@@ -8925,6 +8923,7 @@ yamllint
 yank
 yapet
 yara
+yascreen
 yash
 yasm
 yast2-devtools

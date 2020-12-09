@@ -49,6 +49,7 @@ bluefish
 bmon
 booth
 bout++
+bpfmon
 brial
 brightlight
 brightnessctl
@@ -200,6 +201,7 @@ findbugs
 finger
 fips
 firejail
+flac123
 flamethrower
 flexiblas
 flint
@@ -207,6 +209,7 @@ florist
 foo2zjs
 foomatic
 foomatic-db
+fping
 frama-c
 freecell-solver
 freecolor
@@ -222,6 +225,7 @@ fuse-overlayfs
 fusioninventory-agent
 fvsp
 fwknop-gui
+fxload
 gap
 gap-pkg-ace
 gap-pkg-browse
@@ -581,6 +585,7 @@ obs-signd
 ocaml-dune
 ocaml-lablgtk
 ocaml-menhir
+ocaml-migrate-parsetree
 ocaml-ocamlgraph
 ocaml-ocplib-simplex
 ocaml-psmt2-frontend
@@ -826,6 +831,7 @@ perl-Check-ISA
 perl-Child
 perl-CLASS
 perl-Class-Accessor
+perl-Class-Accessor-Chained
 perl-Class-Accessor-Grouped
 perl-Class-Adapter
 perl-Class-Base
@@ -861,6 +867,7 @@ perl-Class-MakeMethods
 perl-Class-MethodMaker
 perl-Class-Method-Modifiers
 perl-Class-Refresh
+perl-Class-ReturnValue
 perl-Class-Singleton
 perl-Class-Throwable
 perl-Class-Tiny
@@ -1280,6 +1287,7 @@ perl-File-FnMatch
 perl-FileHandle-Fmode
 perl-FileHandle-Unget
 perl-File-HomeDir
+perl-File-KeePass
 perl-File-LibMagic
 perl-File-Listing
 perl-File-LoadLines
@@ -2892,6 +2900,7 @@ xtl
 xvattr
 yadifa
 yank
+yascreen
 ydotool
 yices
 yubikey-manager-qt
