@@ -1,4 +1,3 @@
-
 0ad
 0xFFFF
 2048-cli
@@ -443,7 +442,6 @@ byobu
 byzanz
 bzflag
 bzip2
-cabal-install
 cabextract
 cachefilesd
 cacti-spine
@@ -503,7 +501,6 @@ cegui06
 celestia
 cellwriter
 celt051
-celt071
 centerim
 certmonger
 certwatch
@@ -537,7 +534,6 @@ chrony
 chrpath
 cifs-utils
 CImg
-cinnamon
 cinnamon-translations
 cjose
 ck
@@ -719,7 +715,6 @@ cylindrix
 cyrus-imapd
 cyrus-sasl
 cyrus-timezones
-Cython
 czmq
 d52
 daa2iso
@@ -869,7 +864,6 @@ dmtx-utils
 dnfdaemon
 dnf-plugin-diff
 dnf-plugins-core
-dnscap
 dnscrypt-proxy
 dnsdist
 dnsmap
@@ -924,7 +918,6 @@ duel3
 duff
 duktape
 dumb
-dummy-test-package-rubino-0-1950
 dump
 dumpet
 dunst
@@ -1047,7 +1040,6 @@ erlang-eleveldb
 erlang-etap
 erlang-gtknode
 erlang-rpm-macros
-erlang-stdlib2
 erofs-utils
 esc
 esh
@@ -1370,7 +1362,6 @@ gfs2-utils
 gftp
 ggz-base-libs
 ghasher
-ghc-failure
 ghdl
 ghemical
 ghostscript
@@ -1592,7 +1583,6 @@ gocr
 goddard-backgrounds
 godot
 goffice
-golang-github-jeffail-gabs
 golang-github-pmezard-difflib
 golang-github-segmentio-kafka
 golang-tinygo-x-llvm
@@ -1646,7 +1636,6 @@ grib_api
 gridftp-ifce
 gridloc
 gridsite
-grip
 grisbi
 groff
 groonga
@@ -1817,7 +1806,6 @@ hyphen
 hyphen-hu
 hypre
 i2c-tools
-i3
 i3lock
 i3status
 ibp
@@ -2183,7 +2171,6 @@ kwalletcli
 kwalletmanager
 kwin
 kwooty
-kyotocabinet
 l3afpad
 laby
 lacewing
@@ -2264,7 +2251,6 @@ libax25
 libb2
 libb64
 libbgpdump
-libbind
 libbinio
 libblockdev
 libbluray
@@ -2278,7 +2264,6 @@ libbtbb
 libburn
 libbytesize
 libcaca
-libcacard
 libcanberra
 libcangjie
 libcap
@@ -2406,7 +2391,6 @@ libglpng
 libglvnd
 libgnome
 libgnomecanvas
-libgnomecanvasmm26
 libgnomekbd
 libgnome-keyring
 libgnome-media-profiles
@@ -2581,7 +2565,6 @@ libopkele
 libopm
 libopusenc
 liborcus
-libosinfo
 libosip2
 libosmocore
 libosmo-dsp
@@ -3065,7 +3048,6 @@ matio
 matreshka
 mawk
 maxima
-Mayavi
 mbedtls
 mbox-importer
 mbuffer
@@ -3158,7 +3140,6 @@ mingw-dbus
 mingw-dbus-glib
 mingw-dirac
 mingw-dlfcn
-mingw-enchant
 mingw-enchant2
 mingw-expat
 mingw-fcgi
@@ -3184,7 +3165,6 @@ mingw-goocanvas2
 mingw-gsl
 mingw-gsm
 mingw-gstreamer
-mingw-gstreamer1-plugins-bad-free
 mingw-gstreamer-plugins-base
 mingw-gtk2
 mingw-gtk3
@@ -3510,7 +3490,6 @@ ndctl
 ndesk-dbus
 ndesk-dbus-glib
 ndisc6
-ndjbdns
 neard
 NearTree
 nebula
@@ -3623,7 +3602,6 @@ nrpe
 nsca
 nsd
 nsnake
-nspr
 nss
 nss-altfiles
 nss-mdns
@@ -3678,7 +3656,6 @@ ocaml-camlp5
 ocaml-cil
 ocaml-cmdliner
 ocaml-cppo
-ocaml-cryptokit
 ocaml-cudf
 ocaml-curl
 ocaml-curses
@@ -3698,15 +3675,11 @@ ocaml-lacaml
 ocaml-lambda-term
 ocaml-libvirt
 ocaml-lwt
-ocaml-markup
-ocaml-merlin
 ocaml-migrate-parsetree
 ocaml-mlgmpidl
-ocaml-mlmpfr
 ocaml-mysql
 ocaml-newt
 ocaml-num
-ocaml-oasis
 ocaml-ocamlbuild
 ocaml-ocamlnet
 ocaml-omake
@@ -3715,7 +3688,6 @@ ocaml-ounit
 ocaml-pcre
 ocaml-perl4caml
 ocaml-postgresql
-ocaml-ppxlib
 ocaml-ptmap
 ocaml-res
 ocaml-SDL
@@ -3723,7 +3695,6 @@ ocaml-sqlite
 ocaml-xml-light
 ocaml-xmlrpc-light
 ocaml-zip
-ocaml-zmq
 ocfs2-tools
 ochusha
 oci-kvm-hook
@@ -3734,23 +3705,9 @@ ocserv
 ocspd
 octave
 octave-communications
-octave-control
-octave-general
-octave-gsl
-octave-image
-octave-interval
-octave-io
 octave-iso2mesh
 octave-mcxlab
-octave-miscellaneous
-octave-netcdf
-octave-odepkg
-octave-optim
 octave-parallel
-octave-quaternion
-octave-signal
-octave-specfun
-octave-struct
 octave-zmat
 oddjob
 ode
@@ -3865,7 +3822,6 @@ orsa
 ortp
 oscap-anaconda-addon
 osc-source_validator
-osinfo-db-tools
 osm2pgsql
 osmctools
 osm-gps-map
@@ -3945,7 +3901,6 @@ pcb2gcodeGUI
 pcb-rnd
 pcc
 pciutils
-pcllib
 pcmanfm
 pcmanfm-qt
 pcmanx-gtk2
@@ -4072,8 +4027,6 @@ perl-Class-ReturnValue
 perl-Class-Std-Fast
 perl-Class-Virtual
 perl-Class-Whitehole
-perl-Clownfish
-perl-Clownfish-CFC
 perl-Code-TidyAll-Plugin-Test-Vars
 perl-Config-Auto
 perl-Config-AutoConf
@@ -4137,7 +4090,6 @@ perl-Devel-Trace
 perl-Device-SerialPort
 perl-Directory-Scratch-Structured
 perl-Dir-Self
-perl-Dist-Zilla-Plugin-Test-Compile
 perl-EBook-EPUB
 perl-ElasticSearch-SearchBuilder
 perl-Email-Address-List
@@ -4290,7 +4242,6 @@ perl-Log-LogLite
 perl-Log-Message
 perl-Log-Message-Simple
 perl-Log-TraceMessages
-perl-Lucy
 perl-LV
 perl-LWP-Authen-Negotiate
 perl-LWP-Protocol-http10
@@ -4300,7 +4251,6 @@ perl-Mail-IMAPClient
 perl-Mail-POP3Client
 perl-Mail-Procmail
 perl-Mail-RFC822-Address
-perl-Marpa-XS
 perl-match-simple-XS
 perl-Math-Curve-Hilbert
 perl-Math-Libm
@@ -4384,7 +4334,6 @@ perl-Net-LDAP-Server
 perl-Net-LDAP-Server-Test
 perl-Net-LDAP-SID
 perl-Net-LibIDN
-perl-Net-LibIDN2
 perl-Net-OpenID-Common
 perl-Net-OpenID-Server
 perl-Net-Pcap-Easy
@@ -4854,7 +4803,6 @@ pungi
 pure-ftpd
 purple-facebook
 purple-mattermost
-purple-plugin_pack
 purple-telegram
 puzzle-master
 puzzles
@@ -4879,7 +4827,6 @@ PyQt4
 pyqtwebengine
 pysvn
 pythia8
-python3.10
 python3-cangjie
 python3-docs
 python3-rpm
@@ -4890,8 +4837,6 @@ python-agate
 python-agate-dbf
 python-agate-excel
 python-agate-sql
-python-angr
-python-ansicolor
 python-AppTools
 python-atomicwrites
 python-azure-sdk
@@ -4942,7 +4887,6 @@ python-graph-tool
 python-gsd
 python-guessit
 python-hdmf
-python-healpy
 python-hl7
 python-htmlmin
 python-ipykernel
@@ -4957,7 +4901,6 @@ python-libNeuroML
 python-libsass
 python-meh
 python-metakernel
-python-migen
 python-mpd2
 python-msal
 python-neovim
@@ -4984,7 +4927,6 @@ python-pycares
 python-pycodestyle
 python-pycryptodomex
 python-pycurl
-python-pydicom
 python-pyelectro
 python-pygit2
 python-pygments
@@ -4998,8 +4940,6 @@ python-pyphi
 python-pyqtchart
 python-pysb
 python-pyshtools
-python-pytest-rerunfailures
-python-pyvex
 python-pywt
 python-qt5
 python-rosdep
@@ -5326,19 +5266,8 @@ rtmidi
 rtorrent
 rtpproxy
 rubberband
-ruby-augeas
-rubygem-algorithms
-rubygem-atomic
-rubygem-bcrypt
-rubygem-bindex
-rubygem-bootsnap
-rubygem-bson
-rubygem-byebug
 rubygem-cairo
 rubygem-cairo-gobject
-rubygem-curb
-rubygem-debug_inspector
-rubygem-eventmachine
 rubygem-ffi
 rubygem-gherkin
 rubygem-gio2
@@ -5352,46 +5281,24 @@ rubygem-gstreamer
 rubygem-gtk2
 rubygem-gtk3
 rubygem-gtksourceview2
-rubygem-hiredis
 rubygem-hpricot
-rubygem-http_parser.rb
-rubygem-idn
 rubygem-json
 rubygem-krb5-auth
 rubygem-levenshtein
-rubygem-msgpack
-rubygem-mysql2
 rubygem-narray
-rubygem-ncursesw
-rubygem-nio4r
 rubygem-nokogiri
 rubygem-opengl
-rubygem-ox
 rubygem-pango
-rubygem-pg
-rubygem-posix-spawn
-rubygem-puma
 rubygem-racc
 rubygem-raindrops
 rubygem-rdiscount
-rubygem-redcarpet
-rubygem-RedCloth
 rubygem-redis
-rubygem-regexp_property_values
-rubygem-rmagick
 rubygem-rr
-rubygem-ruby-libvirt
-rubygem-ruby-shadow
-rubygem-serialport
 rubygem-sqlite3
-rubygem-stringex
 rubygem-syck
-rubygem-thin
 rubygem-tk
 rubygem-unf_ext
-rubygem-unicode
 rubygem-vte
-rubygem-websocket-driver
 rubygem-zoom
 ruby-gnome2
 ruby-mecab
@@ -5402,10 +5309,6 @@ rudiments
 rumor
 rusers
 rust-bootupd
-rust-fail
-rust-failure
-rust-failure_derive
-rust-failure-tools
 rvm
 rw
 rwall
@@ -5822,7 +5725,6 @@ taginfo
 taglib-sharp
 tagtool
 talk
-tang
 tango-icon-theme
 tango-icon-theme-extras
 tar
@@ -6172,7 +6074,6 @@ vdr-screenshot
 vdr-skinelchihd
 vdr-skinenigmang
 vdr-skinnopacity
-vdr-skinsoppalusikka
 vdr-streamdev
 vdr-tvguide
 vdr-vnsiserver
@@ -6262,7 +6163,6 @@ whowatch
 whsniff
 whysynth-dssi
 wide-dhcpv6
-wifi-radar
 wiggle
 wildmagic5
 wimlib
@@ -6477,11 +6377,9 @@ xmp
 xmp-plugin-audacious
 xnec2c
 xonotic
-xonsh
 xoo
 xoreos-tools
 xorg-x11-util-macros
-xorg-x11-xkb-utils
 xorgxrdp
 xosview
 xournal
@@ -6592,7 +6490,6 @@ zita-rev1
 zlib
 zmat
 znc
-znc-clientbuffer
 zsh
 zsh-autosuggestions
 zsh-syntax-highlighting

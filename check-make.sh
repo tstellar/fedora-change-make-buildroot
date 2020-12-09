@@ -65,7 +65,7 @@ if [ -e fail_nomake.txt ]; then
 
     echo "Fail with no make `wc -l fail_nomake.txt | grep -o '^[0-9]\+'`"
 
-    cat uses_make.txt fail_nomake.txt | sort | uniq | grep -v -x -F -f buildrequires_make.txt  > needs_br_make.txt
+    grep -x -F -f might_use_make.txt fail_nomake.txt | cat uses_make.txt - | sort | uniq | grep -v -x -F -f buildrequires_make.txt  > needs_br_make.txt
 
     echo "Needs BuildRequires Make: `wc -l needs_br_make.txt | grep -o '^[0-9]\+'`"
 fi
