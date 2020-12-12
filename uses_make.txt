@@ -865,6 +865,7 @@ dcfldd
 dd2
 ddccontrol
 ddccontrol-db
+ddcutil
 ddd
 ddgr
 ddpt
@@ -1883,7 +1884,6 @@ gstreamermm
 gstreamer-plugins-espeak
 gstreamer-plugins-fc
 gt
-gtatool
 gtengine
 gti
 gtimelog
@@ -3234,7 +3234,6 @@ lsp-plugins
 lsscsi
 lsvpd
 lsw
-lsyncd
 lterm
 ltl2ba
 ltrace
@@ -7521,6 +7520,7 @@ readline
 readosm
 realmd
 realtime-setup
+realtime-tests
 rear
 reaver
 rebase-helper
@@ -7731,7 +7731,6 @@ scim-m17n
 scim-pinyin
 scim-sayura
 scim-thai
-scitokens-cpp
 scl-utils
 scmxx
 scorched3d
@@ -8125,7 +8124,6 @@ tango-icon-theme
 tango-icon-theme-extras
 tar
 target-isns
-taskd
 taskopen
 task-spooler
 taxipilot
@@ -8789,7 +8787,6 @@ xgap
 xgrav
 xgrep
 xgridloc
-xinetd
 xkbcomp
 xkbset
 xkeyboard-config

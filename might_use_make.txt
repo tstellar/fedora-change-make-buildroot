@@ -164,6 +164,7 @@ chunkfs
 cinnamon-control-center
 cinnamon-screensaver
 cinnamon-session
+cjson
 clang
 clang10
 clang9.0
@@ -1255,7 +1256,6 @@ latte-dock
 layla-fonts
 lector
 ledger
-legendsbrowser
 legion
 legofy
 leveldb
@@ -1422,6 +1422,7 @@ lpcnetfreedv
 lrslib
 lshw
 lskat
+lsyncd
 lua-compat53
 lua-luv
 lua-moonscript
@@ -1713,7 +1714,6 @@ nodejs-simple-markdown
 nodejs-sntp
 nodejs-walker
 nodejs-whet-dot-extend
-nodeunit
 nodoka-theme-gnome
 nomacs
 non-daw
@@ -2124,6 +2124,7 @@ php-sebastian-version3
 php-simplepie
 php-swaggest-json-diff
 php-swaggest-json-schema
+php-swiftmailer6
 php-symfony
 php-symfony3
 php-symfony4
@@ -2810,6 +2811,7 @@ scap-security-guide
 scap-workbench
 schroot
 scipy
+scitokens-cpp
 scl-utils-build-helpers
 scram
 scratch
@@ -2959,6 +2961,7 @@ tali
 tarantool
 targetd
 task
+taskd
 tasksh
 taxi
 tdlib

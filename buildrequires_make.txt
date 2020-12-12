@@ -139,6 +139,7 @@ cvc4
 cvs
 cxsc
 date
+ddcutil
 ddgr
 ddrescue
 debhelper
@@ -511,6 +512,7 @@ mimetic
 mingetty
 mingw-adwaita-qt
 mingw-djvulibre
+mingw-geos
 mingw-giflib
 mingw-glslang
 mingw-ilmbase

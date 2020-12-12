@@ -1658,7 +1658,6 @@ gstreamermm
 gstreamer-plugins-espeak
 gstreamer-plugins-fc
 gt
-gtatool
 gtengine
 gti
 gtimelog
@@ -2869,7 +2868,6 @@ lsnipes
 lsof
 lsscsi
 lsvpd
-lsyncd
 lterm
 ltrace
 lttng-tools
@@ -3153,7 +3151,6 @@ mingw-GConf2
 mingw-gdal
 mingw-gdb
 mingw-gdbm
-mingw-geos
 mingw-gettext
 mingw-gmp
 mingw-gnutls
@@ -5159,6 +5156,7 @@ re2c
 readline
 readosm
 realmd
+realtime-tests
 rear
 reaver
 rebase-helper
@@ -5720,7 +5718,6 @@ tango-icon-theme
 tango-icon-theme-extras
 tar
 target-isns
-taskd
 taskopen
 task-spooler
 taxipilot
@@ -6337,7 +6334,6 @@ xgalaxy
 xgrav
 xgrep
 xgridloc
-xinetd
 xkbset
 xkeycaps
 xl2tpd
