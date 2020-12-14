@@ -52,10 +52,12 @@ bpfmon
 brial
 brightlight
 brightnessctl
+bsd-games
 build2
 buildah
 buku
 byaccj
+bzflag
 c2esp
 cadical
 carat
@@ -159,6 +161,7 @@ drat2er
 DSDP
 dtc
 dumb-init
+dump
 dvtm
 E
 e-antic
@@ -225,6 +228,7 @@ fusioninventory-agent
 fvsp
 fwknop-gui
 fxload
+gammastep
 gap
 gap-pkg-ace
 gap-pkg-browse

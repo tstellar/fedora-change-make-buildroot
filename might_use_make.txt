@@ -2658,6 +2658,7 @@ rosegarden4
 roundcubemail
 roxterm
 R-pak
+R-parallelly
 rpkg
 rpkg-macros
 rpkg-util

@@ -412,7 +412,6 @@ brise
 bristol
 brltty
 brutalchess
-bsd-games
 bsp
 bspwm
 btbuilder
@@ -439,7 +438,6 @@ bwrap-oci
 byacc
 byobu
 byzanz
-bzflag
 bzip2
 cabextract
 cachefilesd
@@ -917,7 +915,6 @@ duel3
 duff
 duktape
 dumb
-dump
 dumpet
 dunst
 duperemove
@@ -1280,7 +1277,6 @@ gambit-c
 game-music-emu
 gamin
 gammaray
-gammastep
 ganglia
 ganyremote
 garcon
