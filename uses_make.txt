@@ -243,7 +243,6 @@ atasm
 aterm
 atf
 atinout
-atkmm
 AtomicParsley
 atomorun
 atool
@@ -1902,7 +1901,6 @@ gtkhash
 gtkhtml3
 gtkimageview
 gtkmm24
-gtkmm30
 gtk-murrine-engine
 gtk-nodoka-engine
 gtkpod
@@ -1943,6 +1941,7 @@ gv
 gweled
 gwenhywfar
 gxemul
+gxkb
 gxmessage
 gxmms2
 gzip
@@ -4221,7 +4220,6 @@ pal
 palp
 pam
 pam_2fa
-pam_abl
 pam_afs_session
 paman
 pam-cryptsetup
@@ -4237,7 +4235,6 @@ pam-u2f
 pam_url
 pam_yubico
 pan
-pangomm
 Panini
 panoglview
 paper
@@ -8364,6 +8361,7 @@ ucview
 ucviewer
 ucx
 udftools
+udica
 udis86
 udiskie
 udisks

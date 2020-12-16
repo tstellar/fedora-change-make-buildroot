@@ -69,6 +69,7 @@ asdcplib
 assimp
 astromenace
 atk
+atkmm
 atlas
 at-spi2-atk
 at-spi2-core
@@ -151,6 +152,7 @@ ceres-solver
 certbot
 cervisia
 cgnslib
+cgreen
 CharLS
 chck
 checksec
@@ -432,6 +434,7 @@ fcl
 featherpad
 fedfind
 fedmod
+fedora-chromium-config
 fedora-gnat-project-common
 fedora-logos
 fedora-messaging
@@ -841,6 +844,7 @@ gthumb
 gtk4
 gtk-doc
 gtk-layer-shell
+gtkmm30
 guayadeque
 gubbi-fonts
 gucharmap
@@ -1481,7 +1485,6 @@ mingw-adwaita-icon-theme
 mingw-adwaita-qt
 mingw-angleproject
 mingw-antlr
-mingw-atkmm
 mingw-biblesync
 mingw-boost
 mingw-cairo
@@ -1553,7 +1556,6 @@ mingw-nsiswrapper
 mingw-opencv
 mingw-openjpeg2
 mingw-opusfile
-mingw-pangomm
 mingw-pcre2
 mingw-physfs
 mingw-pixman
@@ -1682,7 +1684,6 @@ neochat
 neovim
 netgen-mesher
 netpanzer
-netty-tcnative
 newtonsoft-json
 nextcloud-client
 nextpnr
@@ -1765,6 +1766,7 @@ openCOLLADA
 OpenColorIO
 opencv
 openelp
+openexr
 openhantek
 openigtlink
 OpenImageIO
@@ -1803,10 +1805,12 @@ pagure
 paho-c
 pakiti
 palapeli
+pam_abl
 pamix
 pam_wrapper
 pandoc
 pango
+pangomm
 paprefs
 parley
 partio
@@ -1868,7 +1872,6 @@ perl-Redis
 perl-RPM2
 perl-RRD-Simple
 perl-SDL
-perl-SNMP-Info
 perl-String-Random
 perl-SVG-Graph
 perl-Test-Assert
@@ -1889,7 +1892,6 @@ perl-XML-Stream
 perl-XML-TreeBuilder
 permlib
 petpvc
-petsc4py
 pgRouting
 phan
 phd2
