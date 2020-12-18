@@ -1515,7 +1515,6 @@ mingw-goocanvas2
 mingw-graphite2
 mingw-gtk2
 mingw-gtk3
-mingw-gtkmm30
 mingw-gtksourceview3
 mingw-gtksourceviewmm3
 mingw-gtkspell3
@@ -1524,7 +1523,6 @@ mingw-harfbuzz
 mingw-headers
 mingw-hunspell
 mingw-id3lib
-mingw-ilmbase
 mingw-jasper
 mingw-jxrlib
 mingw-leptonica
@@ -1554,6 +1552,7 @@ mingw-minizip
 mingw-nsis
 mingw-nsiswrapper
 mingw-opencv
+mingw-openexr
 mingw-openjpeg2
 mingw-opusfile
 mingw-pcre2

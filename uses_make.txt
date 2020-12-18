@@ -2117,7 +2117,6 @@ iml
 imlib2
 immix
 imsettings
-imv
 imvirt
 imwheel
 inadyn-mt
@@ -3577,7 +3576,6 @@ mingw-mediawriter
 mingw-mpfr
 mingw-nettle
 mingw-openal-soft
-mingw-OpenEXR
 mingw-openssl
 mingw-opus
 mingw-orc
@@ -3944,6 +3942,7 @@ nqp
 nrg2iso
 nrpe
 nsca
+nsca-ng
 nsd
 nsdiff
 nsnake
@@ -4184,6 +4183,7 @@ orion
 orsa
 ortp
 osbuild
+osbuild-composer
 oscap-anaconda-addon
 osc-source_validator
 osgearth
@@ -6920,7 +6920,6 @@ php-pecl-amqp
 php-pecl-apcu
 php-pecl-apcu-bc
 php-pecl-apfd
-php-pecl-couchbase2
 php-pecl-dio
 php-pecl-ds
 php-pecl-event
