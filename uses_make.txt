@@ -7315,6 +7315,7 @@ q
 qalculate-gtk
 qalculate-kde
 qascade
+qatengine
 qatlib
 qbrew
 qbs
