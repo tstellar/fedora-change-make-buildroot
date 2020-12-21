@@ -596,7 +596,6 @@ cinnamon-translations
 cjdns
 cjose
 ck
-ckb-next
 ckermit
 cksfv
 clamav
@@ -1969,7 +1968,6 @@ heisenbug-backgrounds
 hello
 help2man
 HepMC
-HepMC3
 hercstudio
 hercules
 Hermes
@@ -3388,7 +3386,6 @@ maradns
 marco
 mariadb
 marisa
-marsshooter
 masscan
 massdns
 matchbox-window-manager
@@ -3928,7 +3925,6 @@ nordugrid-arc
 nordugrid-arc-nagios-plugins
 normaliz
 nosync
-notepadqq
 notification-daemon
 notification-daemon-engine-nodoka
 notify-sharp

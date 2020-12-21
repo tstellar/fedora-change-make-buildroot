@@ -167,6 +167,7 @@ cinnamon-control-center
 cinnamon-screensaver
 cinnamon-session
 cjson
+ckb-next
 clang
 clang10
 clang9.0
@@ -869,6 +870,7 @@ HdrHistogram_c
 heaptrack
 hedgewars
 heimdall
+HepMC3
 herbstluftwm
 hgview
 hidviz
@@ -1456,6 +1458,7 @@ marble
 marble-subsurface
 mariadb-connector-c
 mariadb-connector-odbc
+marsshooter
 massif-visualizer
 mate-user-admin
 mathex
