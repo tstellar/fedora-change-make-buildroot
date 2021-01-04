@@ -132,6 +132,7 @@ anyterm
 aoetools
 apache-commons-daemon
 apachetop
+apbs
 apcupsd
 apg
 api-sanity-checker
@@ -701,7 +702,6 @@ collectd
 colm
 colordiff
 colorful
-colorhug-client
 ColPack
 colrdx
 combblas
@@ -844,6 +844,7 @@ cyrus-imapd
 cyrus-sasl
 cyrus-timezones
 czmq
+d0_blind_id
 d52
 daa2iso
 daala
@@ -1228,6 +1229,7 @@ evtest
 examiner
 execstack
 exempi
+exfatprogs
 exif
 exo
 expat
@@ -1477,7 +1479,6 @@ garcon
 garden
 GarminPlugin
 garmintools
-gasnet
 gauche-gl
 gauche-gtk
 gavl
@@ -1915,7 +1916,6 @@ harfbuzz
 harmonyseq
 hashcat
 hatools
-haveged
 hawknl
 hct
 hddtemp
@@ -2196,6 +2196,7 @@ kiwix-desktop
 kpassgen
 krb5
 kyua
+lame
 LaTeXML
 latte-integrale
 lbzip2
@@ -2208,12 +2209,15 @@ lfsc
 L-function
 libaesgm
 libbatch
+libbgpdump
+libbinio
 libbraiding
 libchardet
 libcpuid
 libdirq
 libdivide
 libdmx
+libdnet
 libdnf-plugin-swidtags
 libdwarf
 libeconf
@@ -2239,6 +2243,9 @@ libkml
 liblcf
 libmodsecurity
 libmseed
+libnet
+libnids
+libopm
 libosmium
 libpaper
 libpoly
@@ -2261,7 +2268,10 @@ libssh2
 libsvm
 libtermkey
 libtickit
+libucil
 libuInputPlus
+libunicap
+libunicapgtk
 libverto
 libvirt
 libvterm
@@ -2320,16 +2330,24 @@ lsp-plugins
 lsw
 ltl2ba
 lua-cqueues
+lua-cyrussasl
+lua-dbi
+lua-event
+lua-expat
 luajit
 lua-ldoc
 lua-lgi
 lua-luaossl
 lua-lxc
+lua-sec
+lua-socket
 lumail
 lxcfs
+lzop
 m4ri
 m4rie
 Macaulay2
+mac-robber
 maildrop
 make-it-quick
 mandoc
@@ -2384,6 +2402,7 @@ mod_auth_gssapi
 mod_cluster
 modem-manager-gui
 mod_fcgid
+mod_log_post
 mod_perl
 mod_psgi
 mod_qos
@@ -2392,6 +2411,7 @@ mona
 mongo-c-driver
 monitor-edid
 monotone
+moon-buggy
 moose
 mp
 mpfi
@@ -2422,6 +2442,7 @@ nfdump
 nfs-ganesha
 nmh
 nnn
+nomarch
 normaliz
 nosync
 npth
@@ -2452,6 +2473,8 @@ omniORBpy
 opae
 open62541
 openambit
+openbgpd
+opencryptoki
 opencsd
 openjpeg2
 openni
@@ -2468,10 +2491,12 @@ osmpbf
 osslsigncode
 owl-lisp
 pam
+pamtester
 paper
 paperkey
 par
 pari
+partclone
 parted
 pass-pwned
 pasystray
@@ -2657,6 +2682,7 @@ perl-Catalyst-View-Email
 perl-Catalyst-View-JSON
 perl-CatalystX-Component-Traits
 perl-CBOR-XS
+perl-ccom
 perl-CDB_File
 perl-CDDB
 perl-Cflow
@@ -4435,6 +4461,7 @@ pg-semver
 php
 php-pecl-event
 php-pecl-xdebug3
+php-pecl-yaml
 picojson
 picosat
 pidgin-groupchat-typing-notifications
@@ -4472,6 +4499,7 @@ purple-matrix
 purple-skypeweb
 putty
 pvs-sbcl
+pxz
 pygrib
 pykickstart
 pynac
@@ -4516,6 +4544,7 @@ python-ZODB
 qatengine
 qatlib
 qbs
+qcad
 qcustomplot
 qd
 qepcad-B
@@ -4524,11 +4553,13 @@ qotd
 qpdf
 qpid-dispatch
 qr-code-generator
+qt-creator
 qtspell
 quantum-espresso
 quilt
 quota
 racoon2
+radsecproxy
 ragel
 rakudo
 ramond
@@ -4536,6 +4567,7 @@ rapidjson
 rapidxml
 rbldnsd
 rbm
+rc
 rdma-core
 realtime-setup
 recode
@@ -4549,6 +4581,7 @@ rocksdb
 rofi
 rogue
 root-tail
+rpki-client
 rpm
 rpmconf
 rr
@@ -4564,6 +4597,7 @@ rxvt-unicode
 s3fs-fuse
 saclib
 sailcut
+samtools
 samurai
 sane-airscan
 sane-backends
@@ -4582,6 +4616,7 @@ seafile-client
 secilc
 selinux-policy
 sensible-utils
+setBfree
 setroubleshoot
 setroubleshoot-plugins
 setxkbmap
@@ -4635,10 +4670,12 @@ sympow
 sympy
 syncevolution
 system-config-printer
+t1utils
 tabbed
 tangerine
 tayga
 tbb
+tcl-tclreadline
 teckit
 tetgen
 textern
@@ -4663,8 +4700,11 @@ uARMSolver
 uboot-tools
 ubridge
 ucommon
+ucview
 unbound
 unibilium
+unicornscan
+unrealircd
 uriparser
 usbguard-notifier
 usbmon
@@ -4697,6 +4737,8 @@ wmname
 wordgrinder
 wordnet
 wwl
+x509viewer
+x509watch
 xcalc
 xcb-proto
 xcb-util-xrm
@@ -4707,6 +4749,7 @@ xemacs-packages-extra
 xen
 xfce4-dev-tools
 xflr5
+xforms
 xgap
 xkbcomp
 xkeyboard-config
@@ -4751,6 +4794,7 @@ xorg-x11-xtrans-devel
 xosd
 xsane
 xsel
+xsnow
 xssstate
 xtl
 xvattr
@@ -4761,8 +4805,11 @@ ydotool
 yices
 yubikey-manager-qt
 z3
+zam-plugins
 zenon
+zerofree
 zhu3d
+zita-resampler
 zn_poly
 zork
 zpaq

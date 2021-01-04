@@ -1,3 +1,4 @@
+bodhi
 bowtie2
 compton
 elements-alexandria
@@ -80,6 +81,7 @@ grantlee-qt5
 GraphicsMagick
 gsm-ussd
 gtk3
+haveged
 heimdal
 help2man
 hercstudio
@@ -301,7 +303,6 @@ ladspa-tap-plugins
 ladspa-vco-plugins
 ladvd
 lagan
-lame
 langpacks-install
 lapack
 lasem
@@ -363,8 +364,6 @@ libavc1394
 libax25
 libb2
 libb64
-libbgpdump
-libbinio
 libblockdev
 libbluray
 libbonobo
@@ -430,7 +429,6 @@ libdiscid
 libdmapsharing
 libdmapsharing4
 libdmtx
-libdnet
 libdnf
 libdockapp
 libdrm-armada
@@ -633,7 +631,6 @@ libnatpmp
 libnatspec
 libnbd
 libndp
-libnet
 libnet10
 libnetfilter_acct
 libnetfilter_conntrack
@@ -647,7 +644,6 @@ libnfnetlink
 libnfs
 libnftnl
 libnice
-libnids
 libnjb
 libnl3
 libnotifymm
@@ -674,7 +670,6 @@ libopenmpt
 libopenraw
 liboping
 libopkele
-libopm
 libopusenc
 liborcus
 libosip2
@@ -832,11 +827,8 @@ libtvdb
 libtwin
 libu2f-host
 libu2f-server
-libucil
 libudfread
 libunibreak
-libunicap
-libunicapgtk
 libuninameslist
 libuninum
 libunistring
@@ -988,10 +980,6 @@ lttv
 ltunify
 lua
 lua-bitop
-lua-cyrussasl
-lua-dbi
-lua-event
-lua-expat
 lua-filesystem
 lua-fun
 lua-http
@@ -1003,8 +991,6 @@ lua-md5
 lua-mosquitto
 lua-mpack
 luarocks
-lua-sec
-lua-socket
 lua-sql
 lucidlife
 luckybackup
@@ -1074,7 +1060,6 @@ lziprecover
 lzma-sdk
 lzma-sdk457
 lzo
-lzop
 m17n-db
 m17n-lib
 m4
@@ -1082,7 +1067,6 @@ maatkit
 macchanger
 mac-encheez
 machineball
-mac-robber
 mactel-boot
 Maelstrom
 magic
@@ -1134,6 +1118,7 @@ mate-notification-daemon
 mate-panel
 mate-polkit
 mate-power-manager
+materia-kde
 mate-screensaver
 mate-sensors-applet
 mate-session-manager
@@ -1226,7 +1211,6 @@ mingw-clucene
 mingw-cmocka
 mingw-colord
 mingw-colord-gtk
-mingw-colorhug-client
 mingw-cppunit
 mingw-curl
 mingw-dbus
@@ -1355,7 +1339,6 @@ mod_dnssd
 ModemManager
 mod_gnutls
 mod_http2
-mod_log_post
 mod_md
 mod_mono
 mod_nss
@@ -1383,7 +1366,6 @@ monosim
 mono-tools
 mono-zeroconf
 monsterz
-moon-buggy
 moos
 mopac7
 moreutils
@@ -1590,7 +1572,6 @@ nodm
 nogravity
 nohang
 noip
-nomarch
 no-more-secrets
 nordugrid-arc
 nordugrid-arc-nagios-plugins
@@ -1688,7 +1669,6 @@ ocaml-opam-file-format
 ocaml-pcre
 ocaml-perl4caml
 ocaml-postgresql
-ocaml-ptmap
 ocaml-res
 ocaml-SDL
 ocaml-sqlite
@@ -1734,7 +1714,6 @@ openal-soft
 openarc
 openav-luppp
 openbabel
-openbgpd
 openbios
 openblas
 openboardview
@@ -1744,7 +1723,6 @@ opencity
 openclonk
 opencl-utils
 openconnect
-opencryptoki
 opencsg
 opendbx
 opendkim
@@ -1832,7 +1810,6 @@ ots
 overgod
 ovn
 owfs
-owncloud-client
 p0f
 p11-remote
 p7zip
@@ -1851,14 +1828,12 @@ pam_2fa
 pam_afs_session
 paman
 pam-cryptsetup
-pam-kwallet
 pam_mount
 pam_mysql
 pam_radius
 pam_script
 pam_shield
 pam_ssh
-pamtester
 pam-u2f
 pam_url
 pam_yubico
@@ -1874,7 +1849,6 @@ paraview
 parcellite
 paris-traceroute
 parole
-partclone
 pass
 pass-otp
 passwd
@@ -1980,7 +1954,6 @@ perl-CatalystX-LeakChecker
 perl-CatalystX-Profile
 perl-CatalystX-REPL
 perl-CatalystX-SimpleLogin
-perl-ccom
 perl-CDDB_get
 perl-CGI-Ajax
 perl-CGI-Application-FastCGI
@@ -2643,7 +2616,6 @@ php-pecl-xattr
 php-pecl-xdebug
 php-pecl-xmldiff
 php-pecl-yac
-php-pecl-yaml
 php-pecl-zip
 php-phpiredis
 php-smbclient
@@ -2794,7 +2766,6 @@ pveclib
 pwauth
 pwgen
 pwsafe
-pxz
 py3c
 pyatspi
 pybind11
@@ -2851,7 +2822,6 @@ python-gensim
 python-grako
 python-graph-tool
 python-gsd
-python-guessit
 python-hdmf
 python-htmlmin
 python-ipykernel
@@ -2875,6 +2845,7 @@ python-pdfminer
 python-plaster
 python-pocketlint
 python-profilehooks
+python-psutil
 python-pvc
 python-py
 python-py9p
@@ -2899,6 +2870,7 @@ python-rosdep
 python-rosdistro
 python-rosinstall
 python-rospkg
+python-ryu
 python-sane
 python-satyr
 python-scss
@@ -2934,7 +2906,6 @@ qalculate-gtk
 qalculate-kde
 qascade
 qbrew
-qcad
 qcas
 qcint
 qclib
@@ -3026,7 +2997,6 @@ qt-assistant-adp
 qt-at-spi
 qtbrowserplugin
 qtchooser
-qt-creator
 QtDMM
 qterminal
 qtermwidget
@@ -3073,7 +3043,6 @@ radeontool
 radeontop
 radium-compressor
 radius-engine
-radsecproxy
 radvd
 raidem
 rakarrack
@@ -3095,7 +3064,6 @@ rawstudio
 raw-thumbnailer
 raysession
 rblcheck
-rc
 rcm
 rcrpanel
 rcs
@@ -3179,7 +3147,6 @@ routino
 rpc2
 rpcbind
 rpcsvc-proto
-rpki-client
 rpld
 rpmdevtools
 rpm-git-tag-sort
@@ -3246,7 +3213,6 @@ samba
 samdump2
 samefile
 samplv1
-samtools
 saphire
 sassc
 sawfish
@@ -3346,7 +3312,6 @@ serdisplib
 seren
 servicelog
 se-sandbox-runner
-setBfree
 setserial
 setup
 setuptool
@@ -3621,7 +3586,6 @@ system-switch-mail
 systemtap
 sysusage
 t1lib
-t1utils
 t4k_common
 taarich
 tachyon
@@ -3648,7 +3612,6 @@ tcl-pgtcl
 tcl-signal
 tcl-snack
 tcl-tclnagios
-tcl-tclreadline
 tcl-tcludp
 tcl-tclvfs
 tcl-tclxml
@@ -3850,7 +3813,6 @@ ucblogo
 ucl
 uClibc
 ucpp
-ucview
 ucviewer
 ucx
 udftools
@@ -3884,7 +3846,6 @@ unar
 undbx
 unetbootin
 unicorn
-unicornscan
 unifdef
 unifont
 unique
@@ -3896,7 +3857,6 @@ unixcw
 unixODBC
 unixODBC-gui-qt
 unoconv
-unrealircd
 unrtf
 unuran
 unzip
@@ -4111,8 +4071,6 @@ x2goclient
 x2godesktopsharing
 x2goserver
 x3270
-x509viewer
-x509watch
 xa
 xaos
 xapian-bindings
@@ -4227,7 +4185,6 @@ xfhell
 xfig
 xfmpc
 xfoil
-xforms
 xfpanel-switch
 xfsdump
 xfsprogs
@@ -4294,7 +4251,6 @@ xsd
 xsecurelock
 xsensors
 xskat
-xsnow
 xsp
 xsynth-dssi
 xteddy
@@ -4349,7 +4305,6 @@ z80asm
 z80dasm
 z88dk
 zabbix
-zam-plugins
 zasx
 zaz
 zbar
@@ -4357,7 +4312,6 @@ zd1211-firmware
 zegrapher
 zeitgeist
 zenity
-zerofree
 zeromq
 zeromq-ada
 zfstream
@@ -4374,7 +4328,6 @@ zita-ajbridge
 zita-alsa-pcmi
 zita-at1
 zita-convolver
-zita-resampler
 zita-rev1
 zlib
 zmat

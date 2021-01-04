@@ -421,6 +421,7 @@ bluez-hcidump
 bluez-tools
 bmon
 bochs
+bodhi
 bodr
 bogl
 bogofilter
@@ -683,7 +684,6 @@ collectd
 colm
 colordiff
 colorful
-colorhug-client
 ColPack
 colrdx
 combblas
@@ -824,6 +824,7 @@ cyrus-imapd
 cyrus-sasl
 cyrus-timezones
 czmq
+d0_blind_id
 d52
 daa2iso
 daala
@@ -1204,6 +1205,7 @@ evtest
 examiner
 execstack
 exempi
+exfatprogs
 exif
 exim
 exo
@@ -1480,7 +1482,6 @@ garcon
 garden
 GarminPlugin
 garmintools
-gasnet
 gauche-gl
 gauche-gtk
 gavl
@@ -1818,7 +1819,6 @@ gperftools
 gpgme
 gphoto2
 gphotofs
-gpick
 gpicview
 gpm
 gpodder
@@ -2031,7 +2031,6 @@ hwloc
 hw-probe
 hxtools
 hydra
-hydrogen
 hyena
 hylafax+
 hyperestraier
@@ -3403,6 +3402,7 @@ mate-notification-daemon
 mate-panel
 mate-polkit
 mate-power-manager
+materia-kde
 mate-screensaver
 mate-sensors-applet
 mate-session-manager
@@ -3508,7 +3508,6 @@ mingw-clucene
 mingw-cmocka
 mingw-colord
 mingw-colord-gtk
-mingw-colorhug-client
 mingw-cppunit
 mingw-curl
 mingw-dbus
@@ -4032,7 +4031,6 @@ ocaml-pcre
 ocaml-perl4caml
 ocaml-postgresql
 ocaml-psmt2-frontend
-ocaml-ptmap
 ocaml-qtest
 ocaml-res
 ocaml-SDL
@@ -4199,7 +4197,6 @@ overgod
 ovn
 owfs
 owl-lisp
-owncloud-client
 p0f
 p11-remote
 p7zip
@@ -4219,7 +4216,6 @@ pam_2fa
 pam_afs_session
 paman
 pam-cryptsetup
-pam-kwallet
 pam_mount
 pam_mysql
 pam_radius
@@ -7218,7 +7214,6 @@ python-gmpy2
 python-grako
 python-graph-tool
 python-gsd
-python-guessit
 python-hdmf
 python-htmlmin
 python-ipykernel
@@ -7244,6 +7239,7 @@ python-pdfminer
 python-plaster
 python-pocketlint
 python-profilehooks
+python-psutil
 python-pvc
 python-py
 python-py9p
@@ -7270,6 +7266,7 @@ python-rosdep
 python-rosdistro
 python-rosinstall
 python-rospkg
+python-ryu
 python-sane
 python-satyr
 python-scripttester
@@ -7415,7 +7412,6 @@ qt-assistant-adp
 qt-at-spi
 qtbrowserplugin
 qtchooser
-qt-creator
 QtDMM
 qterminal
 qtermwidget

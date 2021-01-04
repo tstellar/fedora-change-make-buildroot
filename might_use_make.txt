@@ -107,7 +107,6 @@ bloaty
 blosc
 bluedevil
 bmake
-bodhi
 bomber
 boo
 boomaga
@@ -230,7 +229,6 @@ cppzmq
 cpu-x
 creds
 crontabs
-cros-guest-tools
 cross-gcc
 cryptominisat
 cscppc
@@ -738,6 +736,7 @@ golang-github-checkpoint-restore-criu
 golang-github-cmd
 golang-github-cockroachdb-cockroach
 golang-github-coreos-gexpect
+golang-github-cyberdelia-metrics-graphite
 golang-github-d4l3k-messagediff
 golang-github-dpotapov-spnego
 golang-github-elithrar-simple-scrypt
@@ -802,6 +801,7 @@ google-roboto-slab-fonts
 go-rpm-macros
 gpaw
 gpaw-setups
+gpick
 gplugin
 gpsd
 gpsman
@@ -888,6 +888,7 @@ hunspell-de
 hunspell-ga
 hunspell-nl
 hunspell-uz
+hydrogen
 hyperscan
 hyphen-hu
 i3status-rs
@@ -959,6 +960,7 @@ jmdns
 jmock
 jna
 jnr-ffi
+jol
 jpanoramamaker
 jpype
 js8call
@@ -1199,6 +1201,7 @@ kpat
 kphotoalbum
 kpmcore
 kqtquickcharts
+kquickimageeditor
 krdc
 krename
 kreversi
@@ -1262,7 +1265,6 @@ latte-dock
 layla-fonts
 lector
 ledger
-legion
 legofy
 leveldb
 levmar
@@ -1339,6 +1341,7 @@ libminc
 libmodman
 libmpdclient
 libmusicbrainz5
+libnest2d
 libnotify
 libntirpc
 libolm
@@ -1760,7 +1763,6 @@ opae
 opal-prd
 openambit
 open-amp
-openarena
 openas2
 opencascade
 opencc
@@ -1794,6 +1796,7 @@ os-autoinst
 osmium-tool
 osmo-fl2k
 otter-browser
+owncloud-client
 oxygen-fonts
 oxygen-gtk2
 oxygen-icon-theme
@@ -1809,6 +1812,7 @@ pakiti
 palapeli
 pam_abl
 pamix
+pam-kwallet
 pam_wrapper
 pandoc
 pango
@@ -2237,6 +2241,7 @@ pylibgamerzilla
 pyproj
 pypy
 pypy3
+PyQt-builder
 pyserial
 PySolFC
 pystring
@@ -2361,6 +2366,7 @@ python-igraph
 python-impacket
 python-iniparse
 python-inotify
+python-invoke
 python-ipyparallel
 python-jaraco-classes
 python-jaraco-functools
@@ -2450,7 +2456,6 @@ python-precis_i18n
 python-pretend
 python-prettytable
 python-productmd
-python-psutil
 python-psycopg2
 python-pudb
 python-pwntools
@@ -2468,6 +2473,7 @@ python-pymc3
 python-pymilter
 python-pymoc
 python-PyMySQL
+python-pynest2d
 python-pynlpl
 python-pyopencl
 python-pyquery
@@ -2498,7 +2504,6 @@ python-rpm-generators
 python-rpm-macros
 python-rpyc
 python-rstcheck
-python-ryu
 python-sanction
 python-scrapy
 python-SecretStorage
@@ -2589,6 +2594,7 @@ qt5-doc
 qt5-qtaccountsservice
 qt5-qtconfiguration
 qt-avif-image-plugin
+qt-creator
 qtcurve
 qterm
 qtile
@@ -2792,7 +2798,6 @@ rust-jobserver
 rust-jql
 rust-libslirp
 rust-lsd
-rust-pretty-git-prompt
 rust-process_path
 rust-quick-error
 rust-quick-error1
@@ -3012,7 +3017,6 @@ totpcgi
 toxcore
 tpp
 trac
-trac-git-plugin
 trackballs
 tracker
 trademgen
