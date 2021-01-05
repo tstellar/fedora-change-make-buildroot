@@ -7,7 +7,7 @@ for f in rpm-specs/*; do
 
     # Skip some known false positives:
     case $f in
-        rpm-specs/gap-pkg-circle.spec)
+        rpm-specs/gap-pkg-circle.spec | rpm-specs/golang-github-pmezard-difflib.spec)
             continue
             ;;
         *)

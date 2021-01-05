@@ -70,7 +70,6 @@ gnu-efi
 gnuplot
 gnutls
 goaccess
-golang-github-pmezard-difflib
 golang-github-segmentio-kafka
 goocanvasmm
 google-noto-emoji-fonts

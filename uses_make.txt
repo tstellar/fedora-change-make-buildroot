@@ -1795,7 +1795,6 @@ gocl
 gocr
 goddard-backgrounds
 goffice
-golang-github-pmezard-difflib
 golang-github-segmentio-kafka
 golang-tinygo-x-llvm
 gold
