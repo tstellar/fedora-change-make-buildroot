@@ -50,7 +50,6 @@ apanov-heuristica-fonts
 apbs
 apfs-fuse
 api-sanity-checker
-apper
 appstream
 apr-api-docs
 apt
@@ -296,7 +295,6 @@ dnf
 dnfdragora
 dnf-plugins-extras
 dnscrypt-proxy-gui
-dnsjava
 docbook5-style-xsl
 docbook-dtds
 docbook-simple
@@ -471,7 +469,6 @@ flocq
 floppy-support
 fluid
 flute
-fmpp
 fmt
 fntsample
 folks
@@ -499,7 +496,6 @@ gamehub
 gammu
 GAPDoc
 gappa
-gappalib-coq
 gap-pkg-aclib
 gap-pkg-alnuth
 gap-pkg-atlasrep
@@ -685,7 +681,6 @@ gnome-contacts
 gnome-desktop3
 gnome-dictionary
 gnome-disk-utility
-gnome-documents
 gnome-font-viewer
 gnome-gmail
 gnome-initial-setup
@@ -942,7 +937,6 @@ javadocofflinesearch
 java-mersenne-twister
 javapackages-tools
 java-packaging-howto
-jaxodraw
 jcip-annotations
 jcommon
 jcommon-serializer
@@ -1304,7 +1298,6 @@ libfonts
 libformula
 libfreenect
 libgamerzilla
-libgcal
 libgdata
 libgexiv2
 libgit2
@@ -1415,7 +1408,6 @@ lld
 lldb
 llvm
 llvm10
-llvm6.0
 llvm7.0
 llvm9.0
 llvm-test-suite
@@ -1700,23 +1692,14 @@ nng
 nodejs-boom
 nodejs-bundle-dependencies
 nodejs-burrito
-nodejs-columnify
 nodejs-cryptiles
-nodejs-docopt
 nodejs-hoek
-nodejs-is-generator-function
-nodejs-is-glob
 nodejs-lru-cache
-nodejs-makedir
-nodejs-make-error
 nodejs-makeerror
-nodejs-minimatch
 nodejs-prism-media
-nodejs-sentiment
 nodejs-shelljs
 nodejs-simple-fmt
 nodejs-simple-is
-nodejs-simple-markdown
 nodejs-sntp
 nodejs-walker
 nodejs-whet-dot-extend
@@ -1752,7 +1735,6 @@ odcs
 odhcp6c
 oflb-goudy-bookletter-1911-fonts
 ogre
-ogre-pagedgeometry
 oidn
 okteta
 okular
@@ -2404,7 +2386,6 @@ python-magic-wormhole-transit-relay
 python-makeelf
 python-makefun
 python-matplotlib
-python-mdp
 python-metakernel
 python-migrate
 python-minidb
@@ -2577,7 +2558,6 @@ qca
 qca-qt4
 qcomicbook
 qcommandline
-qfaxreader
 qgis
 qgit
 qimageblitz
@@ -2599,7 +2579,6 @@ qtcurve
 qterm
 qtile
 qt-virt-manager
-qtweetlib
 quadrapassel
 quarter
 quassel
@@ -2946,7 +2925,6 @@ sugar-logos
 sugar-moon
 sugar-pippy
 sugar-read
-sugar-visualmatch
 sugar-xoirc
 suil
 supercollider
@@ -3035,6 +3013,7 @@ tweeny
 twinkle
 tycho
 typesetit-great-vibes-fonts
+ubertooth
 uchardet
 ucommon
 ufw

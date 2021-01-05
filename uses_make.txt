@@ -360,14 +360,12 @@ bgpq3
 bgpq4
 bharati-m17n
 bib2html
-biblesync
 bibletime
 bibtex2html
 BibTool
 bibutils
 bicon
 bidiv
-bifcl
 bigloo
 biloba
 bind
@@ -724,7 +722,6 @@ conspy
 constantine-backgrounds
 container-storage-setup
 convmv
-cook
 cool-retro-term
 COPASI
 copr-backend
@@ -858,7 +855,6 @@ dbus-qt3
 dbus-sharp
 dbus-sharp-glib
 dbxtool
-dc3dd
 dcap
 dcfldd
 dd2
@@ -1061,7 +1057,6 @@ dxcc
 dxpc
 dymo-cups-drivers
 dynamite
-dynaplugz
 dyninst
 E
 e00compr
@@ -1093,7 +1088,6 @@ ecryptfs-utils
 ed
 ed2k_hash
 edac-utils
-edb
 edgar
 edg-gridftp-client
 edg-mkgridmap
@@ -1216,7 +1210,6 @@ extractpdfmark
 extrema
 extremetuxracer
 extundelete
-eyesight
 ez-ipupdate
 ezstream
 f21-backgrounds
@@ -1288,13 +1281,11 @@ ffsb
 fftw
 fido
 fido-pi
-fifechan
 fig2ps
 figlet
 file
 filebench
 filezilla
-fillets-ng
 findbugs
 findutils
 finger
@@ -1398,7 +1389,6 @@ FreeSOLID
 freetdi-gala
 freetds
 freetennis
-freetiger
 freetype
 freewrl
 freexl
@@ -1457,6 +1447,7 @@ gammastep
 ganglia
 ganyremote
 gap
+gappalib-coq
 gap-pkg-ace
 gap-pkg-browse
 gap-pkg-cohomolo
@@ -1694,14 +1685,12 @@ gluster-block
 glusterfs
 glusterfs-coreutils
 glyph-keeper
-glyr
 gmediarender
 gmic
 gmime
 gmime30
 gmm
 gmp
-gmpc
 gmp-ecm
 gmqcc
 gmsh
@@ -1712,7 +1701,6 @@ gnome-applets
 gnome-autoar
 gnome-battery-bench
 gnome-chemistry-utils
-gnome-code-assistance
 gnome-colors-icon-theme
 gnome-commander
 gnome-common
@@ -1849,7 +1837,6 @@ greyhounds
 grfcodec
 grhino
 grib_api
-gridftp-ifce
 gridloc
 grisbi
 groff
@@ -2074,7 +2061,6 @@ icebreaker
 icecast
 icecat
 icecream
-icemon
 icestorm
 icewm
 icon
@@ -2204,7 +2190,6 @@ java-gnome
 java-latest-openjdk
 jbig2dec
 jbigkit
-jblas
 jcal
 jconvolver
 jcuber
@@ -2223,7 +2208,6 @@ jitterentropy
 jkmeter
 jmeters
 jmtpfs
-jnettop
 joe
 john
 jose
@@ -2236,7 +2220,6 @@ jpilot-backup
 jpnevulator
 jq
 jreen
-jsl
 json-parser
 json-table
 jss
@@ -2490,7 +2473,6 @@ lib765
 libabigail
 libabw
 libaccounts-qt
-libad9361
 libaesgm
 libAfterImage
 libaio
@@ -2609,7 +2591,6 @@ libedit
 libefp
 libell
 libEMF
-libemu
 libeot
 libepc
 libepubgen
@@ -2731,7 +2712,6 @@ libitl
 libixion
 libjaylink
 libjoedog
-libjson-rpc-cpp
 libjwt
 libkate
 libkcapi
@@ -2891,7 +2871,6 @@ libqb
 libQGLViewer
 libqmi
 libquentier
-libquvi
 libquvi-scripts
 libqxp
 libqxt-qt5
@@ -3177,7 +3156,6 @@ llconf
 lldpad
 lldpd
 llmnrd
-llvm5.0
 lmdb
 Lmod
 lm_sensors
@@ -3270,7 +3248,6 @@ lv
 lv2-abGate
 lv2-c++-tools
 lv2dynparam
-lv2-EQ10Q-plugins
 lv2-invada-plugins
 lv2-ir-plugins
 lv2-ll-plugins
@@ -3430,7 +3407,6 @@ mcpp
 mcrcon
 mcrypt
 mcstrans
-mcu8051ide
 md5deep
 mdadm
 mdbtools
@@ -3465,7 +3441,6 @@ mesa-demos
 mesaflash
 mesa-libGLU
 mesa-libGLw
-meshmagick
 mesos
 messiggy
 metacity
@@ -3501,7 +3476,6 @@ mingw-brotli
 mingw-bzip2
 mingw-cairomm
 mingw-c-ares
-mingw-celt051
 mingw-clucene
 mingw-cmocka
 mingw-colord
@@ -3526,7 +3500,6 @@ mingw-gnutls
 mingw-gsl
 mingw-gsm
 mingw-gstreamer
-mingw-gstreamer-plugins-base
 mingw-gtkmm24
 mingw-hamlib
 mingw-hicolor-icon-theme
@@ -3684,7 +3657,6 @@ mono-tools
 mono-zeroconf
 monsterz
 moon-buggy
-moos
 mopac7
 moreutils
 morse2txt
@@ -3757,12 +3729,10 @@ mupdf
 musca
 MUSIC
 musl
-mutrace
 mutt
 mx5000tools
 mxml
 mydns
-mygui
 myman
 mypaint2-brushes
 mypaint-brushes
@@ -3781,7 +3751,6 @@ nagios-plugins
 nagios-plugins-bdii
 nagios-plugins-bonding
 nagios-plugins-check-updates
-nagios-plugins-fts
 nagios-plugins-openmanage
 nagios-plugins-snmp-disk-proc
 nall
@@ -3905,11 +3874,9 @@ nmh
 nnn
 node
 nodejs
-nodejs-any-path
 nodejs-jsonselect
 nodejs-mysql
 nodejs-options
-nodejs-tweetnacl
 nodejs-vow-queue
 nodejs-ws
 nodm
@@ -3965,7 +3932,6 @@ nuntius
 nut
 nuttcp
 nv-codec-headers
-nvi
 nvme-cli
 nvml
 nwchem
@@ -4062,7 +4028,6 @@ office-runner
 offlineimap
 ofono
 ogdi
-oggvideotools
 ogmtools
 oidentd
 ois
@@ -4084,12 +4049,10 @@ open62541
 openalchemist
 openal-soft
 openarc
-openav-luppp
 openbabel
 openbgpd
 openbios
 openblas
-openboardview
 openbox
 openchange
 opencity
@@ -4167,7 +4130,6 @@ opus
 opusfile
 opus-tools
 orafce
-orage
 orangefs
 ORBit2
 orca
@@ -4270,7 +4232,6 @@ pcmanfm-qt
 pcmanx-gtk2
 pcmciautils
 pcp
-pcp-pmda-cpp
 pcre
 pcre2
 pcs
@@ -6881,7 +6842,6 @@ perl-ZMQ-LibZMQ4
 pesign
 pesign-test-app
 petsc
-pforth
 pfstools
 pgadmin3
 pgaudit
@@ -6959,7 +6919,6 @@ php-phpiredis
 php-smbclient
 php-zmq
 php-zstd
-pianobooster
 picocom
 picojson
 picosat
@@ -6977,7 +6936,6 @@ pidgin-save-conv-order
 pidgin-sipe
 pidgin-toobars
 pidgin-window-merge
-piglit
 pigz
 pilot-link
 pimd
@@ -7337,7 +7295,6 @@ qmc2
 qm-dsp
 qmidiarp
 qmltermwidget
-qmpdclient
 QMsgBox
 qm-vamp-plugins
 qoauth
@@ -7541,7 +7498,6 @@ reposurgeon
 reprepro
 reptyr
 resalloc
-resapplet
 resource-agents
 rest
 restmbmaster
@@ -7641,8 +7597,6 @@ rw
 rwall
 rwho
 rwhoisd
-RxCpp
-rxtx
 rxvt-unicode
 rzip
 s390utils
@@ -7776,7 +7730,6 @@ serafettin-cartoon-fonts
 serdisplib
 seren
 servicelog
-se-sandbox-runner
 setBfree
 setroubleshoot
 setroubleshoot-plugins
@@ -7843,7 +7796,6 @@ sipcalc
 sipp
 sip-redirect
 sipsak
-sir
 sirikali
 siril
 sirius
@@ -8022,7 +7974,6 @@ stress-ng
 strongswan
 stun
 stunnel
-stxxl
 subscription-manager
 subtitleeditor
 subunit
@@ -8053,7 +8004,6 @@ suricata
 svg2svgt
 svgalib
 svxlink
-swami
 swarp
 swatch
 sweep
@@ -8101,7 +8051,6 @@ taarich
 tabbed
 tachyon
 tack
-tagainijisho
 taginfo
 taglib-sharp
 tagtool
@@ -8185,7 +8134,6 @@ texmaker
 texstudio
 textern
 tfdocgen
-tflogger
 tftp
 tgif
 thai-scalable-fonts
@@ -8203,7 +8151,6 @@ Thunar
 thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-vcs-plugin
-thunar-vfs
 thunar-volman
 thunarx-python
 thunderbird
@@ -8487,7 +8434,6 @@ verne-backgrounds
 vfrnav
 vhd2vl
 vhostmd
-viennacl
 vifm
 vigra
 viking
@@ -8702,14 +8648,11 @@ xemacs-packages-base
 xemacs-packages-extra
 xen
 xerces-c
-xerces-c27
 xeus
-xfbib
 xfburn
 xfce4-appfinder
 xfce4-battery-plugin
 xfce4-calculator-plugin
-xfce4-cellmodem-plugin
 xfce4-clipman-plugin
 xfce4-cpufreq-plugin
 xfce4-cpugraph-plugin
@@ -8717,13 +8660,10 @@ xfce4-datetime-plugin
 xfce4-dev-tools
 xfce4-dict
 xfce4-diskperf-plugin
-xfce4-embed-plugin
 xfce4-equake-plugin
 xfce4-eyes-plugin
 xfce4-fsguard-plugin
 xfce4-genmon-plugin
-xfce4-hardware-monitor-plugin
-xfce4-kbdleds-plugin
 xfce4-mailwatch-plugin
 xfce4-mount-plugin
 xfce4-mpc-plugin
